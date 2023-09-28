@@ -1,4 +1,5 @@
 # HacktoberFest2023
+## Star and fork this repository to start contributing !!
 Make your first PR! Add your profile, a blog, or any program under any language (hello-world program to anything) or update the existing one. Just make sure to add the file under the correct directory. Happy open source contributing!
 
 https://hacktoberfest.digitalocean.com/
@@ -44,9 +45,6 @@ GitHub repository URLs will reference both the username associated with the owne
 
 https://github.com/SuriyaaVijay/HacktoberFest2023
 
-![screenshot-star](https://github.com/bajajvinamr/HacktoberFest2020/blob/master/2.png)
-![screenshot-fork](https://github.com/bajajvinamr/HacktoberFest2020/blob/master/3.png)
-
 When you’re on the main page of a repository, you’ll see a button to "Star" and “Fork” the repository on the upper right-hand side of the page, underneath your user icon.
 
 ### 3. Clone the Repository
@@ -60,13 +58,9 @@ https://github.com/your-username/HacktoberFest2023.git
 
 You can alternatively copy the URL by using the green “Clone or download” button from your repository page that you just forked from the original repository page. Once you click the button, you’ll be able to copy the URL by clicking the binder button next to the URL:
 
-![screenshot 73](https://github.com/bajajvinamr/HacktoberFest2020/blob/master/4.png)
-
 Once we have the URL, we’re ready to clone the repository. To do this, we’ll combine the git clone command with the repository URL from the command line in a terminal window:
 
 `git clone https://github.com/your-username/HacktoberFest2023.git`
-
-![screenshot 153](https://github.com/bajajvinamr/HacktoberFest2020/blob/master/5.png)
 
 ### 4. Create a New Branch
 
