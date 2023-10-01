@@ -1,0 +1,174 @@
+
+/*	 /*
+/*	Copyright (c) 2021 ib-themes
+/*	Author: ib-themes
+/*	This file is made for CURRENT TEMPLATE
+
+/*---------------------------------------------------*/
+/*	01) TOKYO  PREVIEW
+/*---------------------------------------------------*/
+
+.tokyo_tm_intro .short_info{
+	position: fixed;
+	top: 10%;
+	width: 100%;
+	text-align: center;
+}
+.tokyo_tm_intro .short_info img{
+	margin-bottom: 25px;
+}
+.tokyo_tm_intro .short_info h3{
+	font-size: 20px;
+	color: #767676;
+}
+.tokyo_tm_intro{
+	width: 100%;
+	height: 100vh;
+	clear: both;
+	float: left;
+	position: relative;
+}
+.tokyo_tm_intro .demos{
+	width: 100%;
+	height: 100%;
+	clear: both;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	position: relative;
+}
+.tokyo_tm_intro .left,
+.tokyo_tm_intro .right{
+	width: 50%;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+	padding: 20px;
+	a{
+		text-decoration: none;
+	}
+}
+.tokyo_tm_intro .demos img{
+	max-width: 400px;
+	margin-bottom: 25px;
+	@media (max-width: 1040px){
+		max-width: 100%;
+	}
+
+}
+.tokyo_tm_intro .desc{
+	position: relative;
+	top: 0px;
+	transition: all .3s ease;
+}
+.tokyo_tm_intro .desc h3{
+	font-size: 20px;
+	font-weight: 800;
+}
+.tokyo_tm_intro .intro_line,
+.tokyo_tm_intro .intro_line_2,
+.tokyo_tm_intro .intro_line_3{
+	position: fixed;
+	top: 0px;
+	width: 1px;
+	height: 200%;
+	left: 50%;
+	transform: translateY(-50%);
+	z-index: -1;
+	background-color: rgba(0,0,0,.06);
+}
+.tokyo_tm_intro .intro_line{
+	left: 25%;
+}
+.tokyo_tm_intro .intro_line_2{
+	left: 50%;
+	transform: translateY(-50%);
+}
+.tokyo_tm_intro .intro_line_3{
+	left: 75%;
+}
+.tokyo_tm_intro .intro_link{
+	position: absolute;
+	z-index: 2;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+}
+.tokyo_tm_intro .left:hover .desc{top: -20px;}
+.tokyo_tm_intro .right:hover .desc{top: -20px;}
+.tokyo_tm_intro_fixed_price .pricing-info,
+.tokyo_tm_intro_fixed_price .anim {text-decoration: none;
+	color: #fff;
+    font-family: "Montserrat";
+    background-color: #e54b4b;
+    position: fixed;
+    font-size: 22px;
+    text-align: center;
+    z-index: 3;
+    border-radius: 100%;
+    height: 70px;
+    width: 70px;
+    line-height: 70px;
+	display: inline-block;
+	left: 50%;
+	bottom: 10%;
+	margin-left: -35px;
+	font-weight: 600;
+		
+	-webkit-transition: all 0.2s;
+	   -moz-transition: all 0.2s;
+	    -ms-transition: all 0.2s;
+	     -o-transition: all 0.2s;
+	        transition: all 0.2s;	
+		
+}
+
+@-webkit-keyframes myAnim {
+    0% {
+        -webkit-transform: scale(.1);
+        transform: scale(.1);
+        opacity: 0
+    }
+    50% {
+        opacity: .3
+    }
+    100% {
+        -webkit-transform: scale(2);
+        transform: scale(2);
+        opacity: 0
+    }
+}
+
+@keyframes myAnim {
+    0% {
+        -webkit-transform: scale(.1);
+        transform: scale(.1);
+        opacity: 0
+    }
+    50% {
+        opacity: .3
+    }
+    100% {
+        -webkit-transform: scale(2);
+        transform: scale(2);
+        opacity: 0
+    }
+}
+
+.tokyo_tm_intro_fixed_price .anim:nth-child(1) {
+    -webkit-animation: myAnim 2s infinite;
+    animation: myAnim 2s infinite
+}
+
+.tokyo_tm_intro_fixed_price .anim:nth-child(2) {
+    -webkit-animation: myAnim 2s infinite .3s;
+    animation: myAnim 2s infinite .3s
+}
+
+.tokyo_tm_intro_fixed_price .anim:nth-child(3) {
+    -webkit-animation: myAnim 2s infinite .6s;
+    animation: myAnim 2s infinite .6s
+}
