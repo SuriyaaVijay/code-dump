@@ -25,5 +25,5 @@ United Kingdom - https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/
 |--------------------|------------------------|------------------------------------------------|
 | [martcpp](https://github.com/martcpp)       | <img src="https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/664064a9-4662-4dfd-8d52-cc195825f08f" alt="Nigeria" width="32" height="32"> | problem solving developer with great love for open source. |
 | [Sanjay Choudhary](https://github.com/cu-sanjay) | <img src="https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/30c63282-7071-4eea-8da6-b96e14448de3" alt="India" width="32" height="32"> | Passionate programmer and student with a strong interest in coding challenges. |
-
+|[Muhammad Anus](https://github.com/Muhammad-Anus-Developer) | <img src="https://avatars.githubusercontent.com/u/80568552?v=4" alt="Me" width="32" height="32"> |Passionate Student Full Stack Developerer still trying to learn everyday something new. |
 
