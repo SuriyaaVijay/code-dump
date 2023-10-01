@@ -16,7 +16,7 @@ India - https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/5adfd776-
 United States - https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/d1991d9e-f273-47a4-a490-2137756d90fc
 United Kingdom - https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/2f0b977b-10a8-48fc-bcd3-0dd9721fa637
 
-6. Replace `Your Description` with a brief description about yourself.
+6. Replace `Your Description` with a brief description of yourself.
 7. Create a Pull Request to this repository.
 8. Once your Pull Request is merged, your name will be added to the list of contributors.
 -->
@@ -25,4 +25,10 @@ United Kingdom - https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/
 |--------------------|------------------------|------------------------------------------------|
 | [martcpp](https://github.com/martcpp)       | <img src="https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/664064a9-4662-4dfd-8d52-cc195825f08f" alt="Nigeria" width="32" height="32"> | problem solving developer with great love for open source. |
 | [Sanjay Choudhary](https://github.com/cu-sanjay) | <img src="https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/30c63282-7071-4eea-8da6-b96e14448de3" alt="India" width="32" height="32"> | Passionate programmer and student with a strong interest in coding challenges. |
+
+
+Name: [Lakshya Garg](https://github.com/Lakshya0018UP)
+Place: Lucknow 
+About: A passionate Front End developer, with making apps day by day
+
 
