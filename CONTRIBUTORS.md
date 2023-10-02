@@ -27,6 +27,7 @@ United Kingdom - https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/
 | [Sanjay Choudhary](https://github.com/cu-sanjay) | <img src="https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/30c63282-7071-4eea-8da6-b96e14448de3" alt="India" width="32" height="32"> | Passionate programmer and student with a strong interest in coding challenges. |
 |[Rohit](https://github.com/ROHITTTTZ)        | <img src="https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/5adfd776-ce7e-4467-92dd-727a12239cd1" alt="India" width="32" height="32">   |Passionate student programmer , interested in learning new skills.  |
 |[Srijita](https://github.com/SrijitaBaksi)   | <img src="https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/5adfd776-ce7e-4467-92dd-727a12239cd1" alt="India" width="32" height="32">   |Coding enthusiast, learning DSA , languages known -C ,C++,Java,Python , Learning full stack web development|
+|[Aryan Pratap SIngh](https://github.com/Aryanpratap01)   | <img src="git@github.com:Aryanpratap01/HacktoberFest2023.git" alt="Ghaziabad, India" width="32" height="32">   |Learning MERNDev and JAVA DSA|
 
 
 
