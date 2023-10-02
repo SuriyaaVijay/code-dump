@@ -220,29 +220,41 @@ textarea:focus {
 .subscribe-head {
   text-align: center;
 }
+
+/* Some modification on input and sumit buttons*/
+/* CSS */
+.form-section {
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+}
+
 .form-section input[type="email"] {
-  border: 0 none;
+  border: 2px solid #9b9b9b;
   border-radius: 25px;
-  color: #9b9b9b;
+  color: #141313;
   font-size: 16px;
-  font-style: normal;
   height: 51px;
   letter-spacing: 0;
-  text-align: center;
-  width: 460px;
+  text-align: left;
+  width: 300px; 
+  padding: 0 20px; 
+  margin-right: 10px;
 }
+
 .form-section input[type="submit"] {
   background: #1cb803;
-  border: 0 none;
+  border: none;
   border-radius: 25px;
   color: #fff;
   height: 52px;
   letter-spacing: 0;
-  margin-left: -60px;
-  padding: 0 58px;
+  padding: 0 30px; 
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 14px;
+  cursor: pointer; 
 }
+
 /* CONTACT */
 .contactInfo {
   padding: 70px 0;

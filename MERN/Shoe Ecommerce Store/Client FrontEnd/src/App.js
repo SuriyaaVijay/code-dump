@@ -16,6 +16,7 @@ import OrderScreen from "./screens/OrderScreen";
 import NotFound from "./screens/NotFound";
 import PrivateRouter from "./PrivateRouter";
 
+
 const App = () => {
   return (
     <Router>

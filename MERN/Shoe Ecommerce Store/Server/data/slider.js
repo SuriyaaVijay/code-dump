@@ -8,3 +8,7 @@ const products = [
        
       },
 ];
+
+
+//Missing export
+export default products;

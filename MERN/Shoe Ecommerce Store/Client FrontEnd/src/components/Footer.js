@@ -19,7 +19,8 @@ const Footer = () => {
         <div className="card-name">
           <img
             alt="paypal"
-            src="https://pbs.twimg.com/media/EfTZlEnWAAMn1lX.png"
+            //updated paypal image(A-bhiSheKumar)older one just not working 
+            src="https://cdn-icons-png.flaticon.com/128/888/888870.png"
           />
         </div>
         <div className="card-name">
