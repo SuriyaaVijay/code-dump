@@ -1,0 +1,5 @@
+Set Up Dependencies ::
+Run these commands in the terminal :
+•	npm i electron resize-img toastify-js
+
+To run the project : npm start
