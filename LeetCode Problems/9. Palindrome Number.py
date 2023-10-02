@@ -15,3 +15,4 @@ class Solution:
         
         # Check if the reversed integer is the same as the original
         return original_x == reversed_x
+# time complexity of program is O(N) and space complexity is O(N)
