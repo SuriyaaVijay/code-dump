@@ -11,3 +11,9 @@ About Me : I am very passionate to WEBDEV _Mern stack , App_dev Flutter and I am
 Name: Md Sarfaraz Alam [https://github.com/mdsarfarazalam840]
 Place: Bangaluru
 About: I am a passinate Full Stack Web Dev, wanted to learn more in MEAN and MERN stack and I am interested in Open Source Contribution.
+
+
+Name: Markosh Prajapati [https://github.com/coder-002]
+Place: Kathmandu
+About: I am a front end developer
+
