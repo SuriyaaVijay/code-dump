@@ -1,0 +1,203 @@
+1.) Make -- Defines the manufacturing company
+
+2.) Model -- Defines the name of the car
+
+3.) Variant -- Gives the variant of the car... Can be converted to 0, 1, 2, 3.... (Maybe)
+
+4.) Ex-Showroom_Price -- Selling Price of the car
+
+5.) Displacement -- Defines the total volume of all the cylinders in an engine
+
+6.) Cylinders -- Defines the number of cylinders present in the vehicle
+
+7.) Valves_Per_Cylinder
+
+8.) Drivetrain -- It is the system in a motor vehicle which connects the transmission to the drive axles.
+
+9.) Cylinder_Configuration -- Cylinder configuration is the arrangement of an engines cylinders.
+
+10.) Emission_Norm -- These are the standards set up by the Indian government which specify the amount of air pollutants from internal combustion engines, including those that vehicles can emit.
+
+11.) Engine_Location -- You can easily check the engine by popping up the hood of the car as it sits on the top and slightly forward from the front wheels. 
+
+12.) Fuel_System -- The fuel system is made up of the fuel tank, pump, filter and injectors or carburetor, and is responsible for delivering fuel to the engine as needed. 
+
+13.) Fuel_Tank_Capacity -- Indicates the size of the fuel tank of the vehicle
+
+14.) Fuel_Type -- It comprieses whether the vehicle supports petrol, diesel or CNG for running
+
+15.) Height -- Depicts the height of the vehicle
+
+16.) Length -- Depicts the length of the vehicle
+
+17.) Width -- Depicts the width of the vehicle
+
+18.) Body_Type -- Depicts the type of the vehicle (Enhances the design of the vehicle)
+
+19.) Doors -- Gives the number of doors in the vehicle 
+
+20.) City_Mileage -- Depicts the mileage the vehicle is providing when used in the city
+
+21.) Highway_Mileage -- Depicts the mileage the vehicle is providing when used in on highway
+
+22.) ARAI_Certified_Mileage -- The Government of India has an automotive testing body called the Automotive Research Association of India (ARAI). ARAI mileage test is conducted in a controlled environment, and therefore, gives excellent results for mileage.
+
+23.) ARAI_Certified_Mileage_for_CNG -- It is the ARAI mileage the CNG fuel type vehicles provide
+
+24.) Kerb_Weight -- The “curb weight” of your car is the weight of the vehicle without any passenger or items in it except for the standard equipment that comes with it.
+
+25.) Gears -- Depicts the number of gears the vehicle consists of
+
+26.) Ground_Clearance -- It is the space between the ground and the base of the vehicle 
+
+27.) Front_Brakes -- This column depicts the type of brake present on the front braking system.
+
+28.) Rear_Brakes -- This column depicts the type of brake present on the rear braking system.
+
+29.) Front_Suspension -- This column depicts the type of suspension present on the front suspension system.
+
+30.) Rear_Suspension -- This column depicts the type of suspension present on the rear suspension system.
+
+31.) Front_Track -- Describes the distance between the front 2 tyres of the vehicle
+
+32.) Rear_Track -- Describes the distance between the rear 2 tyres of the vehicle 
+
+33.) Front_Tyre_&_Rim -- This column gives the description of the front tyre of the car. The first value consists of the tyre width, followed by a delimeter. The other values consists of the aspect ratio. Aspect ratio represents the height of the tyre sidewall as the percentage of the normal section width. The R here stands for Radial Construction and finally the last value gives the diameter of the tyre's inner rim in inches.
+
+Example: 195/55R16:
+	Width of the tyre: 195 mm
+	Aspect Ratio: 55%
+	Inner Diameter: 16 inch
+
+34.) Rear_Tyre_&_Rim -- This column gives the description of the rear tyre of the car. The first value consists of the tyre width, followed by a delimeter. The other values consists of the aspect ratio. Aspect ratio represents the height of the tyre sidewall as the percentage of the normal section width. The R here stands for Radial Construction and finally the last value gives the diameter of the tyre's inner rim in inches.
+
+Example: 195/55R16:
+	Width of the tyre: 195 mm
+	Aspect Ratio: 55%
+	Inner Diameter: 16 inch
+
+35.) Power_Steering -- This column depicts the type of power steering present in the vehicle
+
+36.) Power_Windows -- This column depicts the windows that contains the power window in them
+
+37.) Power_Seats -- A power seat in an automobile is a front seat which can be adjusted by using a switch or joystick and a set of small electric motors
+
+38.) Keyless_Entry -- This feature depicts the type of entry in the vehicle
+
+39.) Power
+40.) Torque
+
+41.) Odometer -- Displays meter type of the distance driven by the vehicle
+
+42.) Speedometer -- Displays meter type of the speed of the vehicle
+
+43.) Tachometer -- Meter that displays the RPM
+
+44.) Tripmeter -- A trip meter typically records the mileage for a trip and can be reset by the user.
+
+45.) Seating_Capacity -- Number of seats
+
+46.) Seats_Material -- Type of the seats
+
+47.) Type -- Manual and Automatic
+
+48.) Wheelbase -- In both road and rail vehicles, the wheelbase is the horizontal distance between the centers of the front and rear wheels. 
+
+49.) Wheels_Size
+
+50.) Start_/_Stop_Button -- Button for ignition
+
+51.) 12v_Power_Outlet -- Power outlet for charging, etc
+
+52.) Audio system
+53.) Aux-in_Compatibility
+
+54.) Average_Fuel_Consumption -- Fuel consumption measures the amount of fuel a car consumes to go a specific distance. It is expressed in liters per hundred kilometers—or in countries that use the imperial system, gallons per 100 miles.
+
+55.) Basic_Warranty -- ⭐
+56.) Bluetooth
+57.) Bluetooth
+58.) Boot_Space
+59.) CD_/_MP3_/_DVD_Player -- Can be clubbed with Audio system
+
+60.) Central_Locking
+61.) Child_Safety_Locks
+62.) Clock
+63.) Cup_Holders
+64.) Distance_to_Empty
+65.) Door_Pockets
+66.) Engine_Malfunction_Light
+67.) Extended_Warranty
+68.) FM_Radio
+69.) Fuel-lid_Opener
+70.) Fuel_Gauge
+71.) Handbrake
+72.) Instrument_Console
+73.) Low_Fuel_Warning
+74.) Minimum_Turning_Radius
+75.) Multifunction_Display
+76.) Sun_Visor
+77.) Third_Row_AC_Vents
+78.) Ventilation_System
+79.) Auto-Dimming_Rear-View_Mirror
+80.) Hill_Assist
+81.) Gear_Indicator
+82.) 3_Point_Seat-Belt_in_Middle_Rear_Seat
+83.) Ambient_Lightning
+84.) Cargo/Boot_Lights
+85.) Drive_Modes
+86.) Engine_Immobilizer
+87.) High_Speed_Alert_System
+88.) Lane_Watch_Camera/_Side_Mirror_Camera
+89.) Passenger_Side_Seat-Belt_Reminder
+90.) Seat_Back_Pockets
+91.) Voice_Recognition
+92.) Walk_Away_Auto_Car_Lock
+93.) ABS_(Anti-lock_Braking_System)
+94.) Headlight_Reminder
+95.) Adjustable_Headrests
+96.) Gross_Vehicle_Weight
+97.) Airbags
+98.) Door_Ajar_Warning
+99.) EBD_(Electronic_Brake-force_Distribution)
+100.) Fasten_Seat_Belt_Warning
+101.) Gear_Shift_Reminder
+102.) Number_of_Airbags
+103.) Compression_Ratio
+104.) Adjustable_Steering_Column
+105.) Other_Specs
+106.) Other_specs
+107.) Parking_Assistance
+108.) Key_Off_Reminder
+109.) USB_Compatibility
+110.) Android_Auto
+111.) Apple_CarPlay
+112.) Cigarette_Lighter
+113.) Infotainment_Screen
+114.) Multifunction_Steering_Wheel
+115.) Average_Speed
+116.) EBA_(Electronic_Brake_Assist)
+117.) Seat_Height_Adjustment
+118.) Navigation_System
+119.) Second_Row_AC_Vents
+120.) Tyre_Pressure_Monitoring_System
+121.) Rear_Center_Armrest
+122.) iPod_Compatibility
+123.) ESP_(Electronic_Stability_Program)
+124.) Cooled_Glove_Box
+125.) Recommended_Tyre_Pressure
+126.) Heated_Seats
+127.) Turbocharger
+128.) ISOFIX_(Child-Seat_Mount)
+129.) Rain_Sensing_Wipers
+130.) Paddle_Shifters
+131.) Leather_Wrapped_Steering
+132.) Automatic_Headlamps
+133.) Engine_Type
+134.) ASR_/_Traction_Control
+135.) Cruise_Control
+136.) USB_Ports
+137.) Heads-Up_Display
+138.) Welcome_Lights
+139.) Battery
+140.) Electric_Range

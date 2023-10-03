@@ -1,0 +1,100 @@
+Age,Profession,Marrital Status,Education,No of Dependents,Personal loan,House Loan,Wife Working,Salary,Wife Salary,Total Salary,Make,Price
+27,Salaried,Single,Post Graduate,0,Yes,No,No,800000,0,800000,i20,800000
+35,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,1400000,600000,2000000,Ciaz,1000000
+45,Business,Married,Graduate,4,Yes,Yes,No,1800000,0,1800000,Duster,1200000
+41,Business,Married,Post Graduate,3,No,No,Yes,1600000,600000,2200000,City,1200000
+31,Salaried,Married,Post Graduate,2,Yes,No,Yes,1800000,800000,2600000,SUV,1600000
+28,Salaried,Married,Graduate,3,Yes,Yes,No,900000,0,900000,Baleno,700000
+31,Salaried,Married,Graduate,4,No,No,Yes,1200000,600000,1800000,City,1200000
+33,Business,Married,Post Graduate,4,No,No,No,1400000,0,1400000,Baleno,700000
+34,Business,Married,Post Graduate,4,No,No,No,2000000,0,2000000,Verna,1100000
+34,Salaried,Married,Graduate,3,Yes,Yes,Yes,1200000,700000,1900000,i20,800000
+35,Salaried,Married,Post Graduate,4,No,No,Yes,1300000,700000,2000000,SUV,1600000
+35,Salaried,Married,Graduate,4,Yes,Yes,m,1400000,0,1400000,Baleno,700000
+29,Salaried,Married,Post Graduate,0,No,No,Yes,900000,800000,1700000,Verna,110000
+30,Business,Single,Post Graduate,2,Yes,No,No,1400000,0,1400000,i20,800000
+31,Business,Married,Graduate,3,Yes,Yes,Yes,900000,400000,1300000,Baleno,700000
+49,Salaried,Married,Post Graduate,4,No,No,Yes,2500000,2000000,4500000,Luxuray,3000000
+26,Salaried,Single,Post Graduate,0,No,No,No,800000,0,800000,i20,800000
+27,Salaried,Single,Graduate,0,Yes,No,Yes,800000,0,800000,Baleno,700000
+29,Salaried,Single,Post Graduate,2,No,No,No,900000,0,900000,City,1200000
+30,Salaried,Married,Graduate,0,No,No,Yes,800000,500000,1300000,Baleno,700000
+37,Salaried,Married,Post Graduate,3,No,Yes,Yes,1700000,800000,2500000,City,1200000
+35,Business,Married,Graduate,3,No,Yes,Yes,1100000,800000,1900000,i20,800000
+36,Business,Married,Graduate,3,No,No,Yes,1400000,1000000,2400000,SUV,1600000
+35,Business,Married,Post Graduate,4,No,No,Yes,900000,500000,1400000,Baleno,700000
+35,Salaried,Married,Graduate,3,Yes,No,Yes,1400000,600000,2000000,Ciaz,1100000
+35,Salaried,Married,Graduate,2,No,No,Yes,1800000,1100000,2900000,SUV,1600000
+35,Salaried,Married,Post Graduate,4,Yes,Yes,No,1300000,0,1300000,Baleno,700000
+36,Business,Married,Graduate,3,No,No,No,1600000,0,1600000,i20,800000
+36,Salaried,Married,Post Graduate,3,Yes,Yes,Yes,1700000,900000,2600000,Verna,1200000
+36,Salaried,Married,Post Graduate,2,No,No,Yes,1800000,900000,2700000,SUV,1600000
+41,Business,Married,Graduate,3,No,No,No,1100000,0,1100000,Baleno,700000
+41,Salaried,Married,Graduate,3,No,No,Yes,1400000,700000,2100000,Duster,1300000
+41,Salaried,Married,Post Graduate,4,No,Yes,Yes,1900000,1100000,3000000,Creata,1500000
+43,Business,Married,Graduate,3,No,No,Yes,1300000,900000,2200000,Creata,1500000
+42,Salaried,Married,Graduate,4,Yes,Yes,No,2100000,0,2100000,Ciaz,1100000
+42,Salaried,Married,Post Graduate,3,No,No,Yes,2400000,1300000,3700000,SUV,1600000
+29,Business,Married,Post Graduate,0,No,No,Yes,900000,700000,1600000,City,1200000
+30,Salaried,Married,Post Graduate,0,No,No,Yes,1300000,800000,2100000,Creata,1500000
+30,Business,Single,Post Graduate,0,No,No,No,1400000,0,1400000,SUV,1600000
+31,Salaried,Married,Graduate,0,No,No,Yes,1400000,800000,2200000,Ciaz,1100000
+31,Business,Married,Post Graduate,3,Yes,Yes,Yes,1100000,600000,1700000,i20,800000
+32,Business,Married,Post Graduate,0,No,No,No,1400000,0,1400000,Ciaz,1100000
+32,Salaried,Married,Graduate,0,No,No,Yes,1600000,800000,2400000,SUV,1600000
+34,Salaried,Married,Post Graduate,3,No,No,Yes,1400000,900000,2300000,Duster,1300000
+34,Salaried,Married,Post Graduate,2,Yes,Yes,No,1600000,0,1600000,i20,800000
+34,Salaried,Married,Graduate,3,No,Yes,Yes,2200000,1400000,3600000,Creata,1500000
+36,Business,Married,Graduate,4,No,No,No,200000,0,200000,Ciaz,1100000
+36,Business,Married,Graduate,2,No,Yes,Yes,1500000,1100000,2600000,Duster,1300000
+36,Salaried,Married,Post Graduate,2,No,Yes,Yes,1100000,500000,1600000,i20,800000
+36,Salaried,Married,Graduate,3,Yes,No,Yes,2200000,900000,3100000,Creata,1500000
+49,Business,Married,Post Graduate,4,No,No,No,2000000,0,2000000,Duster,1300000
+49,Salaried,Married,Post Graduate,3,No,No,Yes,2500000,1800000,4300000,SUV,1600000
+44,Salaried,Married,Post Graduate,4,No,No,No,2700000,0,2700000,SUV,1600000
+44,Business,Married,Post Graduate,3,No,No,Yes,2000000,1800000,3800000,Creata,1500000
+41,Salaried,Married,Graduate,2,No,No,Yes,2900000,1800000,4700000,Luxuray,3000000
+41,Salaried,Married,Post Graduate,3,Yes,Yes,No,3100000,0,3100000,Creata,1500000
+41,Salaried,Married,Graduate,3,No,No,No,2600000,0,2600000,Ciaz,1100000
+27,Salaried,Single,Post Graduate,0,No,No,No,1100000,0,1100000,Baleno,700000
+27,Business,Single,Graduate,0,No,No,No,1200000,0,1200000,Ciaz,1100000
+28,Salaried,Single,Graduate,0,Yes,No,No,900000,0,900000,Baleno,700000
+28,Salaried,Single,Post Graduate,0,No,No,No,1400000,0,1400000,City,1200000
+30,Salaried,Single,Post Graduate,0,No,No,No,1500000,0,1500000,Creata,1500000
+31,Business,Single,Graduate,0,No,No,No,2000000,0,2000000,SUV,1500000
+31,Salaried,Married,Post Graduate,3,Yes,Yes,No,1800000,0,1800000,Baleno,700000
+31,Salaried,Married,Graduate,2,No,Yes,Yes,1400000,700000,2100000,Ciaz,1100000
+39,Business,Married,Post Graduate,3,No,No,No,1600000,0,1600000,Baleno,700000
+39,Business,Married,Graduate,2,Yes,Yes,Yes,2200000,1400000,3600000,Creata,1500000
+39,Salaried,Married,Post Graduate,2,No,No,No,1900000,0,1900000,City,1200000
+39,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,2700000,1300000,4000000,Creata,1500000
+37,Business,Married,Graduate,3,No,No,No,1700000,0,1700000,Verna,1200000
+37,Business,Married,Post Graduate,2,No,No,Yes,1400000,1300000,2700000,Duster,1500000
+37,Salaried,Married,Post Graduate,2,No,Yes,Yes,1900000,1300000,3200000,SUV,1600000
+37,Salaried,Married,Graduate,2,No,No,No,1300000,0,1300000,Baleno,700000
+35,Salaried,Married,Post Graduate,0,No,No,Yes,1400000,1100000,2500000,SUV,1600000
+36,Business,Married,Graduate,0,No,No,Yes,1300000,700000,2000000,City,1200000
+36,Salaried,Married,Post Graduate,2,No,No,Yes,2300000,1300000,3600000,Creata,1500000
+36,Business,Married,Post Graduate,2,Yes,Yes,No,1900000,0,1900000,i20,800000
+36,Business,Married,Graduate,3,No,Yes,Yes,1800000,1100000,2900000,SUV,1600000
+44,Salaried,Married,Post Graduate,3,No,No,No,3100000,0,3100000,Creata,1500000
+45,Salaried,Married,Post Graduate,2,No,Yes,Yes,2700000,1800000,4500000,SUV,1600000
+46,Salaried,Married,Graduate,3,Yes,Yes,No,2100000,0,2100000,Baleno,800000
+44,Business,Married,Graduate,2,No,No,Yes,3100000,2100000,5200000,SUV,1600000
+43,Salaried,Married,Post Graduate,3,Yes,Yes,No,2400000,0,2400000,Ciaz,1100000
+42,Salaried,Married,Post Graduate,2,No,Yes,No,2900000,0,2900000,Duster,1300000
+42,Salaried,Married,Graduate,3,Yes,Yes,No,2700000,0,2700000,i20,800000
+42,Business,Married,Post Graduate,3,Yes,Yes,No,1800000,0,1800000,Baleno,700000
+29,Business,Single,Graduate,0,Yes,No,No,1100000,0,1100000,Baleno,700000
+33,Salaried,Married,Post Graduate,2,No,No,Yes,1400000,800000,2200000,City,1200000
+34,Salaried,Married,Graduate,2,No,Yes,Yes,2700000,1400000,4100000,Creata,1500000
+34,Business,Married,Post Graduate,3,Yes,Yes,No,1900000,0,1900000,Baleno,700000
+35,Salaried,Married,Graduate,2,No,No,No,1400000,0,1400000,i20,800000
+36,Salaried,Married,Post Graduate,3,Yes,Yes,Yes,3100000,1800000,4900000,SUV,1600000
+37,Salaried,Married,Graduate,2,No,Yes,No,2800000,0,2800000,City,1200000
+27,Salaried,Single,Post Graduate,0,No,No,No,900000,0,900000,Baleno,700000
+27,Business,Single,Graduate,0,No,No,No,2400000,0,2400000,SUV,1600000
+50,Salaried,Married,Post Graduate,3,No,No,Yes,3800000,1300000,5100000,SUV,1600000
+51,Business,Married,Graduate,2,Yes,Yes,No,2200000,0,2200000,Ciaz,1100000
+51,Salaried,Married,Post Graduate,2,No,No,Yes,2700000,1300000,4000000,Creata,1500000
+51,Salaried,Married,Post Graduate,2,Yes,Yes,No,2200000,0,2200000,Ciaz,1100000
