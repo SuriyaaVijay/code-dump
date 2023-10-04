@@ -17,7 +17,8 @@ Pull requests can be made in any GitHub-hosted repositories/projects.
 Sign up anytime between October 1 and October 31.
 
 # Rules
-To qualify for the official limited edition Hacktoberfest shirt, you must register and make four pull requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate. This year, the first 70,000 participants who successfully complete the challenge will earn a T-shirt.
+~~To qualify for the official limited edition Hacktoberfest shirt,~~
+ You must register and make four pull requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate. This year, the first 70,000 participants who successfully complete the challenge will earn a T-shirt.
 
 ## Getting Started
 
@@ -32,8 +33,8 @@ About: Short Intro (Optional)
 *Make sure you have a GitHub account. In case you don't have one, you can create your account by visiting https://github.com/ and clicking on ``Sign up`` option at the top right corner.*
 
 ### 1. Register yourself for Hacktoberfest
-###### Link to register: https://hacktoberfest.digitalocean.com/
-Click on "Start Hacking" and add your GitHub account.
+###### Link to register: https://hacktoberfest.com
+Click on "Register now" and add your GitHub account.
 
 ![Screenshot-HFST](https://github.com/bajajvinamr/HacktoberFest2020/blob/master/1.png)
 
