@@ -1,0 +1,436 @@
+Make,Model,Variant,Displacement,Cylinders,Fuel_Tank_Capacity,Fuel_Type,Mileage,Mileage.1,Kerb_Weight
+Ford,Freestyle,1.5L Tdci Ambiente,1498,4,40,Diesel,24.4,24.4,1062
+Ford,Freestyle,1.5L Tdci Titanium,1498,4,40,Diesel,24.4,24.4,1074
+Ford,Freestyle,1.5L Tdci Titanium Plus,1498,4,40,Diesel,24.4,24.4,1080
+Ford,Freestyle,1.2L Ti-Vct Ambiente,1194,3,42,Petrol,19,19,1026
+Ford,Freestyle,1.2L Ti-Vct Titanium,1194,3,42,Petrol,19,19,1038
+Ford,Freestyle,1.2L Ti-Vct Titanium Plus,1194,3,42,Petrol,19,19,1044
+Ford,Freestyle,1.2L Ti-Vct Trend Plus,1194,3,42,Petrol,19,19,1032
+Ford,Freestyle,1.5L Tdci Trend Plus,1498,3,42,Diesel,24.4,24.4,1068
+Ford,Aspire,1.2 Ti-Vct Ambiente,1194,4,42,Petrol,20.4,20.4,1016
+Ford,Aspire,1.2 Ti-Vct Trend Plus,1194,4,42,Petrol,20.4,20.4,1016
+Ford,Aspire,1.2 Ti-Vct Trend,1194,4,42,Petrol,20.4,20.4,1016
+Ford,Aspire,1.5 Tdci Ambiente,1498,4,40,Diesel,26.1,26.1,1053
+Ford,Aspire,1.5 Tdci Trend,1498,4,40,Diesel,26.1,26.1,1053
+Ford,Aspire,1.5 Tdci Trend Plus,1498,4,40,Diesel,26.1,26.1,1053
+Ford,Aspire,1.5 Tdci Titanium,1498,4,40,Diesel,26.1,26.1,1053
+Ford,Aspire,1.5 Tdci Titanium Plus,1498,4,40,Diesel,26.1,26.1,1053
+Ford,Aspire,1.2 Ti-Vct Titanium Plus,1194,4,42,Petrol,19.4,19.4,1053
+Ford,Aspire,1.2 Ti-Vct Titanium,1194,4,42,Petrol,19.4,19.4,1016
+Ford,Aspire,1.2 Trend Plus Cng,1194,4,42,CNG,20.4,20.4,1016
+Ford,Aspire,1.2 Ti-Vct Blu,1194,4,42,Petrol,19.4,19.4,1016
+Ford,Aspire,1.5 Tdci Blu,1498,4,40,Diesel,26.1,26.1,1053
+Ford,Mustang,Fastback V8,4951,8,60.9,Petrol,10,10,1053
+Ford,Ecosport,1.5L Ti-Vct Ambiente,1497,3,52,Petrol,0,0,1220
+Ford,Ecosport,1.5L Ti-Vct Trend,1497,3,52,Petrol,0,0,1225
+Ford,Ecosport,1.5L Ti-Vct Titanium,1497,3,52,Petrol,0,0,1242
+Ford,Ecosport,1.5L Ti-Vct Titanium Plus At,1497,3,52,Petrol,0,0,1320
+Ford,Ecosport,1.5L Tdci Ambiente,1498,4,52,Diesel,0,0,1261
+Ford,Ecosport,1.5L Tdci Trend,1498,4,52,Diesel,0,0,1268
+Ford,Ecosport,1.5L Tdci Titanium,1498,4,52,Diesel,0,0,1300
+Ford,Ecosport,1.5L Tdci Titanium Plus,1498,4,52,Diesel,0,0,1304
+Ford,Ecosport,1.5L Ti-Vct Titanium Plus,1497,4,52,Petrol,0,0,1304
+Ford,Ecosport,1.5L Tdci Titanium S,1498,3,52,Diesel,0,0,1242
+Ford,Ecosport,1.5L Ti-Vct Thunder Edition,1497,4,52,Petrol,0,0,1304
+Honda,Jazz,V Petrol,1199,4,40,Petrol,11.3,11.3,1042
+Honda,Jazz,Vx Cvt,1199,4,40,Petrol,11.3,11.3,1066
+Honda,Jazz,Vx Petrol,1199,4,40,Petrol,11.3,11.3,1044
+Honda,Jazz,V Cvt,1199,4,40,Petrol,11.3,11.3,1064
+Honda,Jazz,S Diesel,1498,4,40,Diesel,12,12,1139
+Honda,Jazz,V Diesel,1498,4,40,Diesel,12,12,1146
+Honda,Jazz,Vx Diesel,1498,4,40,Diesel,12,12,1155
+Honda,Jazz,Exclusive Edition Cvt,1199,4,40,Petrol,18.2,18.2,1066
+Honda,Cr-V,Awd Diesel At,1597,4,57,Diesel,18.3,18.3,1725
+Honda,Amaze,S Cvt Petrol,1199,4,35,Petrol,0,0,942
+Honda,Amaze,E Mt Diesel,1498,4,35,Diesel,0,0,993
+Honda,Amaze,E Mt Petrol,1199,4,35,Petrol,0,0,905
+Honda,Amaze,S Cvt Diesel,1498,4,35,Diesel,0,0,1031
+Honda,Amaze,V Cvt Petrol,1199,4,35,Petrol,0,0,945
+Honda,Amaze,V Cvt Diesel,1498,4,35,Diesel,0,0,1039
+Honda,Amaze,S Mt Diesel,1498,4,35,Diesel,0,0,1010
+Honda,Amaze,Vx Mt Diesel,1498,4,35,Diesel,0,0,1023
+Honda,Amaze,V Mt Diesel,1498,4,35,Diesel,0,0,1021
+Honda,Amaze,Vx Mt Petrol,1199,4,35,Petrol,0,0,924
+Honda,Amaze,V Mt Petrol,1199,4,35,Petrol,0,0,921
+Honda,Amaze,S Mt Petrol,1198,4,35,Petrol,0,0,917
+Honda,Amaze,Exclusive Edition Diesel,1498,4,35,Diesel,0,0,1023
+Honda,Amaze,Exclusive Edition Petrol,1199,4,35,Petrol,0,0,924
+Honda,Amaze,Vx Cvt Diesel,1498,4,35,Diesel,0,0,1023
+Honda,Amaze,Vx Cvt Petrol,1199,4,35,Petrol,0,0,924
+Honda,Amaze,Ace Edition Cvt Diesel,1498,4,35,Diesel,0,0,1023
+Honda,Amaze,Ace Edition Cvt Petrol,1199,4,35,Petrol,0,0,924
+Honda,Amaze,Ace Edition Mt Diesel,1498,4,35,Diesel,0,0,1023
+Honda,Amaze,Ace Edition Mt Petrol,1199,4,35,Petrol,0,0,924
+Honda,Civic,1.8 V Cvt,1799,4,47,Petrol,0,0,1268
+Honda,Civic,1.8 Vx Cvt,1799,4,47,Petrol,0,0,1275
+Honda,Civic,1.8 Zx Cvt,1799,4,47,Petrol,0,0,1300
+Honda,Civic,1.6 Vx Mt,1597,4,47,Diesel,0,0,1325
+Honda,Civic,1.6 Zx Mt,1597,4,47,Diesel,0,0,1353
+Honda,Wr-V,Vx Diesel,1498,4,40,Diesel,25.5,25.5,1204
+Honda,Wr-V,Vx Petrol,1199,4,40,Petrol,17.5,17.5,1104
+Honda,Wr-V,S Diesel,1498,4,40,Diesel,25.5,25.5,1176
+Honda,Wr-V,S Petrol,1199,4,40,Petrol,17.5,17.5,1087
+Honda,Wr-V,Edge Plus Edition Diesel,1498,4,40,Diesel,25.5,25.5,1176
+Honda,Wr-V,Edge Plus Edition Petrol,1199,4,40,Petrol,17.5,17.5,1087
+Honda,Wr-V,Exclusive Edition Diesel,1498,4,40,Diesel,25.5,25.5,1204
+Honda,Wr-V,Exclusive Edition Petrol,1199,4,40,Petrol,17.5,17.5,1104
+Honda,Wr-V,V Diesel,1498,4,40,Diesel,25.5,25.5,1204
+Honda,Accord Hybrid,2.0 At,1993,4,60,Hybrid,21,21,1210
+Hyundai,Xcent Prime,Cng T + (Cng +,1197,4,43,CNG + Petrol,25,25,1100
+Hyundai,Xcent Prime,T,1197,4,43,Petrol,15.7,15.7,1100
+Hyundai,Xcent Prime,T+,1197,4,43,Petrol,15.7,15.7,1100
+Hyundai,Xcent Prime,Cng T (Cng +,1197,4,43,CNG + Petrol,25,25,1100
+Hyundai,Xcent Prime,T+ Crdi,1197,4,43,Diesel,20.14,20.14,1100
+Hyundai,Xcent Prime,T Crdi,1197,4,43,Diesel,20,20,1100
+Hyundai,Elite I20,Era 1.2,1197,4,45,Petrol,13.3,13.3,1066
+Hyundai,Elite I20,Era 1.4 Crdi,1396,4,45,Diesel,18.4,18.4,1510
+Hyundai,Elite I20,Magna Plus,1197,4,45,Petrol,13.3,13.3,1058
+Hyundai,Elite I20,Magna Plus Crdi,1396,4,45,Diesel,18.4,18.4,1510
+Hyundai,Elite I20,Sportz Plus,1197,4,45,Petrol,13.3,13.3,1060
+Hyundai,Elite I20,Sportz Plus Crdi Dual Tone,1396,4,45,Diesel,18.4,18.4,1515
+Hyundai,Elite I20,Asta (O) 1.2,1197,4,45,Petrol,13.3,13.3,1515
+Hyundai,Elite I20,Asta (O) Crdi,1396,4,45,Diesel,18.4,18.4,1515
+Hyundai,Elite I20,Asta (O) Cvt,1197,4,45,Petrol,13.3,13.3,1066
+Hyundai,Elite I20,Sportz Plus Dual Tone,1197,4,45,Petrol,13.3,13.3,1060
+Hyundai,Elite I20,Sportz Plus Cvt,1197,4,45,Petrol,13.3,13.3,1060
+Hyundai,Elite I20,Sportz Plus Crdi,1396,4,45,Diesel,18.4,18.4,1515
+Hyundai,Grand I10 Prime,Era T Vtvt,1197,4,43,Petrol,18.9,18.9,1003
+Hyundai,Grand I10 Prime,Era T+ Vtvt,1197,4,43,Petrol,18.9,18.9,1003
+Hyundai,Grand I10 Prime,Era T+ Cng Vtvt,1197,4,43,CNG,25,25,935
+Hyundai,Grand I10 Prime,Era T Cng Vtvt,1197,4,43,CNG,25,25,935
+Hyundai,Grand I10,1.2 Kappa Vtvt Magna,1197,4,43,Petrol,18.9,18.9,1003
+Hyundai,Grand I10,1.2 Kappa Vtvt Sportz,1197,4,43,Petrol,18.9,18.9,1003
+Hyundai,Grand I10,1.2 Kappa Vtvt Sportz At,1197,4,43,Petrol,18.9,18.9,1003
+Hyundai,Grand I10,1.2 Kappa Vtvt Sportz Dual Tone,1197,4,43,Petrol,18.9,18.9,1003
+Hyundai,Grand I10,1.2 Kappa Vtvt Magna Cng,1197,4,43,CNG,0,0,1003
+Hyundai,Grand I10 Nios,Asta 1.2 Crdi,1186,3,37,Diesel,0,0,1550
+Hyundai,Xcent,S 1.2,1197,4,43,Petrol,15.7,15.7,1535
+Hyundai,Xcent,S At 1.2,1197,4,43,Petrol,15.7,15.7,1550
+Hyundai,Xcent,Sx 1.2,1197,4,43,Petrol,15.7,15.7,1395
+Hyundai,Xcent,Sx 1.2 (O),1197,4,43,Petrol,15.7,15.7,1515
+Hyundai,Xcent,S 1.2 Crdi,1120,3,43,Diesel,19,19,1607
+Hyundai,Creta,1.6 Vtvt Sx (O),1591,4,55,Petrol,15.29,15.29,1100
+Hyundai,Creta,1.6 Vtvt Sx At,1591,4,55,Petrol,15.29,15.29,1100
+Hyundai,Creta,1.6 Vtvt Sx Dual Tone,1591,4,55,Petrol,15.29,15.29,1100
+Hyundai,Creta,1.4 Crdi S,1396,4,55,Diesel,21.38,21.38,1100
+Hyundai,Creta,1.6 Crdi Sx,1582,4,55,Diesel,17.01,17.01,1100
+Hyundai,Creta,1.6 Crdi Sx (O),1582,4,55,Diesel,17.01,17.01,1100
+Hyundai,Creta,1.6 Crdi Sx At,1582,4,55,Diesel,17.01,17.01,1100
+Hyundai,Creta,1.6 Crdi Sx Dual Tone,1582,4,55,Diesel,17.01,17.01,930
+Hyundai,Creta,1.6 Crdi S At,1582,4,55,Diesel,17.01,17.01,930
+Hyundai,Creta,1.6 Vtvt Sx (O) Executive,1591,4,55,Petrol,15.29,15.29,930
+Hyundai,Creta,1.6 Crdi Sx (O) Executive,1582,4,55,Diesel,17.01,17.01,1001
+Hyundai,Creta,1.4 Crdi Ex,1396,4,55,Diesel,21.38,21.38,1615
+Hyundai,Creta,1.6 Vtvt Ex,1591,4,55,Petrol,15.29,15.29,1615
+Hyundai,Creta,Sports Edition Petrol,1591,4,55,Petrol,15.29,15.29,1615
+Hyundai,Creta,Sports Edition Diesel,1582,4,55,Diesel,0,0,1615
+Mahindra,Verito Vibe,D2,1461,4,50,Diesel,18,18,1155
+Mahindra,Verito Vibe,D4,1461,4,50,Diesel,18,18,1155
+Mahindra,Verito Vibe,D6,1461,4,50,Diesel,18,18,1155
+Mahindra,Xuv500,G At,2179,4,70,Petrol,0,0,1785
+Mahindra,Xuv500,W7,2179,4,70,Diesel,16,16,1785
+Mahindra,Xuv500,W7 At,2179,4,70,Diesel,16,16,1785
+Mahindra,Xuv500,W9,2179,4,70,Diesel,16,16,1785
+Mahindra,Xuv500,W9 At,2179,4,70,Diesel,16,16,1785
+Mahindra,Xuv500,W11,2179,4,70,Diesel,16,16,1785
+Mahindra,Xuv500,W11 At,2179,4,70,Diesel,16,16,1785
+Mahindra,Xuv500,W11 (O),2179,4,70,Diesel,16,16,1785
+Mahindra,Xuv500,W11 (O) At,2179,4,70,Diesel,16,16,1785
+Mahindra,Xuv500,G At,2179,4,70,Petrol,0,0,1785
+Mahindra,Xuv500,W7,2179,4,70,Diesel,16,16,1785
+Mahindra,Xuv500,W7 At,2179,4,70,Diesel,16,16,1785
+Mahindra,Xuv500,W9,2179,4,70,Diesel,16,16,1785
+Mahindra,Xuv500,W9 At,2179,4,70,Diesel,16,16,1785
+Mahindra,Xuv500,W11,2179,4,70,Diesel,16,16,1785
+Mahindra,Xuv500,W11 At,2179,4,70,Diesel,16,16,1785
+Mahindra,Xuv500,W11 (O),2179,4,70,Diesel,16,16,1785
+Mahindra,Xuv500,W11 (O) At,2179,4,70,Diesel,16,16,1785
+Mahindra,Xuv500,W11 (O) Awd,2179,4,70,Diesel,16,16,1785
+Mahindra,Xuv500,W11 (O) Awd At,2179,4,70,Diesel,16,16,1785
+Mahindra,Xuv500,W3,2179,4,70,Diesel,16,16,1785
+Mahindra,Tuv300,T4 Plus,1493,3,60,Diesel,18.49,18.49,1590
+Mahindra,Tuv300,T6 Plus,1493,3,60,Diesel,18.49,18.49,1590
+Mahindra,Tuv300,T8,1493,3,60,Diesel,18.49,18.49,1590
+Mahindra,Tuv300,T10,1493,3,60,Diesel,18.49,18.49,1590
+Mahindra,Tuv300,T10 (O),1493,3,60,Diesel,18.49,18.49,1590
+Mahindra,Tuv300,T10 Dual Tone,1493,3,60,Diesel,18.49,18.49,1590
+Mahindra,Tuv300,T10 (O) Dual Tone,1493,3,60,Diesel,18.49,18.49,1590
+Mahindra,Xylo,D2 Bs-Iv,2489,4,55,Diesel,10.7,10.7,1875
+Mahindra,Xylo,D4 Bs-Iv,2489,4,55,Diesel,10.3,10.3,1875
+Mahindra,Xylo,H4 Bs-Iv,2179,4,55,Diesel,11.4,11.4,1875
+Mahindra,Xylo,H4 Abs Bs-Iv,2179,4,55,Diesel,11.4,11.4,1875
+Mahindra,Xylo,H8 Abs Airbags Bs-Iv,2179,4,55,Diesel,11.4,11.4,1875
+Mahindra,Bolero,Zlx,2523,4,60,Diesel,9.4,9.4,1730
+Mahindra,Bolero,Slx,2523,4,60,Diesel,12.3,12.3,1655
+Mahindra,Bolero,Sle,2523,4,60,Diesel,12.3,12.3,1655
+Mahindra,Bolero,Ex,2523,4,60,Diesel,9.4,9.4,
+Mahindra,Bolero,Ex Non Ac,2523,4,60,Diesel,9.4,9.4,1670
+Maruti Suzuki,Eeco,5 Str,1196,4,40,Petrol,12,12,920
+Maruti Suzuki,Eeco,7 Str,1196,4,40,Petrol,12,12,940
+Maruti Suzuki,Eeco,5 Str With Ac+Htr,1196,4,40,Petrol,11,11,928
+Maruti Suzuki,Eeco,5 Str With Ac+Htr Cng,1196,4,40,CNG,20,20,1050
+Maruti Suzuki,Eeco,5 Str With Htr Cng,1196,4,40,CNG,20,20,1030
+Maruti Suzuki,Alto K10,Lxi,998,3,35,Petrol,14,14,745
+Maruti Suzuki,Alto K10,Vxi,998,3,35,Petrol,14,14,750
+Maruti Suzuki,Alto K10,Lx,998,3,35,Petrol,19,19,740
+Maruti Suzuki,Alto K10,Vxi (O),998,3,35,Petrol,14,14,755
+Maruti Suzuki,Alto K10,Lxi Cng (O),998,3,35,CNG,32.26,32.26,740
+Maruti Suzuki,Alto K10,Vxi Amt (O),998,3,35,Petrol,14,14,755
+Maruti Suzuki,Celerio Tour,H2,998,3,35,Petrol,23,23,830
+Maruti Suzuki,Celerio Tour,H2 Cng,998,3,60,CNG,31.76,31.76,915
+Maruti Suzuki,Dzire Tour,Ldi,1248,4,42,Diesel,14.6,14.6,1045
+Maruti Suzuki,Dzire Tour,Lxi,1197,4,42,Petrol,16.3,16.3,935
+Maruti Suzuki,Dzire Tour,Lxi Cng,1197,4,42,CNG,26.6,26.6,935
+Maruti Suzuki,Dzire,Lxi,1197,4,37,Petrol,16.3,16.3,860
+Maruti Suzuki,Dzire,Vxi,1197,4,37,Petrol,16.3,16.3,872
+Maruti Suzuki,Dzire,Ldi,1248,4,37,Diesel,28.4,28.4,955
+Maruti Suzuki,Dzire,Zxi,1197,4,37,Petrol,16.3,16.3,882
+Maruti Suzuki,Dzire,Vdi,1248,4,37,Diesel,28.4,28.4,967
+Maruti Suzuki,Dzire,Vxi Amt,1197,4,37,Petrol,16.3,16.3,872
+Maruti Suzuki,Dzire,Zdi Amt,1248,4,37,Diesel,28.4,28.4,978
+Maruti Suzuki,Dzire,Zdi,1248,4,37,Diesel,28.4,28.4,978
+Maruti Suzuki,Dzire,Zxi Plus,1197,4,37,Petrol,16.3,16.3,895
+Maruti Suzuki,Dzire,Zxi At,1197,4,37,Petrol,16.3,16.3,882
+Maruti Suzuki,Dzire,Zxi Plus Amt,1197,4,37,Petrol,16.3,16.3,990
+Maruti Suzuki,Dzire,Zdi Plus,1248,4,37,Diesel,28.4,28.4,895
+Maruti Suzuki,Dzire,Vdi Amt,1248,4,37,Diesel,28.4,28.4,967
+Maruti Suzuki,Dzire,Zdi Plus Amt,1248,4,37,Diesel,28.4,28.4,990
+Maruti Suzuki,Alto,Std,796,3,35,Petrol,22.05,22.05,730
+Maruti Suzuki,Alto,Std (O),796,3,35,Petrol,22.05,22.05,732
+Maruti Suzuki,Alto,Lxi,796,3,35,Petrol,22.05,22.05,755
+Maruti Suzuki,Alto,Lxi (O),796,3,35,Petrol,22.05,22.05,757
+Maruti Suzuki,Alto,Vxi,796,3,35,Petrol,22.05,22.05,762
+Maruti Suzuki,Alto,Lxi Cng (Cng +,796,3,35,CNG + Petrol,22.05,22.05,755
+Maruti Suzuki,Alto,Lxi (O) Cng (Cng +,796,3,35,CNG + Petrol,22.05,22.05,757
+Maruti Suzuki,Alto,Vxi Plus,796,3,35,Petrol,22.05,22.05,762
+Maruti Suzuki,S-Presso,Std,998,3,27,Petrol,21.4,21.4,726
+Maruti Suzuki,S-Presso,Std (O),998,3,27,Petrol,21.4,21.4,726
+Maruti Suzuki,S-Presso,Lxi,998,3,27,Petrol,21.4,21.4,726
+Maruti Suzuki,S-Presso,Lxi (O),998,3,27,Petrol,21.4,21.4,726
+Maruti Suzuki,S-Presso,Vxi,998,3,27,Petrol,21.7,21.7,726
+Maruti Suzuki,S-Presso,Vxi (O),998,3,27,Petrol,21.7,21.7,726
+Maruti Suzuki,S-Presso,Vxi Ags,998,3,27,Petrol,21.7,21.7,726
+Maruti Suzuki,S-Presso,Vxi+,998,3,27,Petrol,21.7,21.7,726
+Maruti Suzuki,S-Presso,Vxi (O) Ags,998,3,27,Petrol,21.7,21.7,726
+Maruti Suzuki,S-Presso,Vxi+ Ags,998,3,27,Petrol,21.7,21.7,726
+Maruti Suzuki,Celerio,Lxi,998,3,35,Petrol,23,23,810
+Maruti Suzuki,Celerio,Vxi,998,3,35,Petrol,23,23,810
+Maruti Suzuki,Celerio,Vxi At,998,3,35,Petrol,23,23,810
+Maruti Suzuki,Celerio,Zxi,998,3,35,Petrol,23,23,810
+Maruti Suzuki,Celerio,Zxi (Opt),998,3,35,Petrol,23,23,810
+Maruti Suzuki,Celerio,Vxi Cng Mt,998,3,35,CNG,31.79,31.79,810
+Maruti Suzuki,Celerio,Zxi Ags,998,3,35,Petrol,23,23,830
+Maruti Suzuki,Celerio,Lxi Mt (O),998,3,35,Petrol,23,23,830
+Maruti Suzuki,Celerio,Vxi (O) Mt,998,3,35,Petrol,23,23,810
+Maruti Suzuki,Celerio,Vxi (O) Ags,998,3,35,Petrol,23,23,810
+Maruti Suzuki,Celerio,Zxi (O) Ags,998,3,35,Petrol,23,23,830
+Maruti Suzuki,Swift,Lxi,1197,4,37,Petrol,12.6,12.6,855
+Maruti Suzuki,Swift,Vxi,1197,4,37,Petrol,20.4,20.4,863
+Maruti Suzuki,Swift,Vxi Amt,1197,4,37,Petrol,20.4,20.4,863
+Maruti Suzuki,Swift,Zxi,1197,4,37,Petrol,20.4,20.4,871
+Maruti Suzuki,Swift,Zxi Amt,1197,4,37,Petrol,20.4,20.4,871
+Maruti Suzuki,Swift,Zxi Plus,1197,4,37,Petrol,20.4,20.4,880
+Maruti Suzuki,Swift,Ldi,1248,4,37,Diesel,25.2,25.2,955
+Maruti Suzuki,Swift,Vdi,1248,4,37,Diesel,25.2,25.2,965
+Maruti Suzuki,Swift,Vdi Amt,1248,4,37,Diesel,25.2,25.2,965
+Maruti Suzuki,Swift,Zdi,1248,4,37,Diesel,25.2,25.2,975
+Maruti Suzuki,Swift,Zdi Amt,1248,4,37,Diesel,25.2,25.2,975
+Maruti Suzuki,Swift,Zdi Plus,1248,4,37,Diesel,25.2,25.2,985
+Maruti Suzuki,Swift,Zxi Plus Amt,1197,4,37,Petrol,20.4,20.4,880
+Maruti Suzuki,Swift,Zdi Plus Amt,1248,4,37,Diesel,25.2,25.2,985
+Maruti Suzuki,Gypsy,Hard Top,1298,4,40,Petrol,10.2,10.2,985
+Maruti Suzuki,Gypsy,Soft Top,1298,4,40,Petrol,10.2,10.2,985
+Maruti Suzuki,Vitara Brezza,Ldi,1248,4,48,Diesel,20,20,1170
+Maruti Suzuki,Vitara Brezza,Vdi,1248,4,48,Diesel,20,20,1170
+Maruti Suzuki,Vitara Brezza,Zdi,1248,4,48,Diesel,20,20,1170
+Maruti Suzuki,Vitara Brezza,Zdi+,1248,4,48,Diesel,20,20,1170
+Maruti Suzuki,Vitara Brezza,Zdi+ Dual Tone,1248,4,48,Diesel,20,20,1170
+Maruti Suzuki,Vitara Brezza,Zdi+ Ags,1248,4,48,Diesel,20,20,1170
+Maruti Suzuki,Vitara Brezza,Vdi Ags,1248,4,48,Diesel,20,20,1170
+Maruti Suzuki,Vitara Brezza,Zdi Ags,1248,4,48,Diesel,20,20,1170
+Maruti Suzuki,Vitara Brezza,Zdi+ Dual Tone Ags,1248,4,48,Diesel,20,20,1170
+Maruti Suzuki,Xl6,Zeta Mt,1462,4,45,Petrol,0,0,1180
+Maruti Suzuki,Xl6,Alpha Mt,1462,4,45,Petrol,0,0,1180
+Maruti Suzuki,Xl6,Zeta At,1462,4,45,Petrol,0,0,1180
+Maruti Suzuki,Xl6,Alpha At,1462,4,45,Petrol,0,0,1180
+Maruti Suzuki,Omni,5 Str Bs-Iv,796,3,35,Petrol,13,13,785
+Maruti Suzuki,Omni,E 8 Str Bs-Iv,796,3,36,Petrol,13,13,785
+Maruti Suzuki,Baleno,1.3 Delta,1248,4,37,Diesel,27.39,27.39,970
+Maruti Suzuki,Baleno,1.3 Alpha,1248,4,37,Diesel,27.39,27.39,985
+Maruti Suzuki,Baleno,1.3 Sigma,1248,4,37,Diesel,27.39,27.39,960
+Maruti Suzuki,Baleno,1.3 Zeta,1248,4,37,Diesel,27.39,27.39,980
+Maruti Suzuki,Baleno,1.2 Alpha,1197,4,37,Petrol,21.4,21.4,890
+Maruti Suzuki,Baleno,1.2 Alpha Cvt,1197,4,37,Petrol,21.4,21.4,935
+Maruti Suzuki,Baleno,1.2 Delta,1197,4,37,Petrol,21.4,21.4,870
+Maruti Suzuki,Baleno,1.2 Delta Cvt,1197,4,37,Petrol,21.4,21.4,910
+Maruti Suzuki,Baleno,1.2 Sigma,1197,4,37,Petrol,21.4,21.4,865
+Maruti Suzuki,Baleno,1.2 Zeta,1197,4,37,Petrol,21.4,21.4,880
+Maruti Suzuki,Baleno,1.2 Delta Dualjet,1197,4,37,Petrol,21.4,21.4,870
+Maruti Suzuki,Baleno,1.2 Zeta Dualjet,1197,4,37,Petrol,21.4,21.4,880
+Maruti Suzuki,Baleno,1.2 Zeta Cvt,1197,4,37,Petrol,21.4,21.4,920
+Maruti Suzuki,Ertiga,Lxi,1462,4,45,Petrol,0,0,1135
+Maruti Suzuki,Ertiga,Zxi,1462,4,45,Petrol,0,0,1175
+Maruti Suzuki,Ertiga,Vxi At,1462,4,45,Petrol,0,0,1170
+Maruti Suzuki,Ertiga,Zxi Plus,1462,4,45,Petrol,0,0,1170
+Maruti Suzuki,Ertiga,Vxi,1462,4,45,Petrol,0,0,1175
+Maruti Suzuki,Ertiga,Zxi At,1462,4,45,Petrol,0,0,1180
+Maruti Suzuki,Ertiga,1.5L Vdi,1498,4,45,Diesel,0,0,1225
+Maruti Suzuki,Ertiga,1.5L Zdi,1498,4,45,Diesel,0,0,1225
+Maruti Suzuki,Ertiga,1.5L Zdi Plus,1498,4,45,Diesel,0,0,1225
+Maruti Suzuki,Ertiga,Vxi Cng (Cng +,1462,4,45,CNG + Petrol,0,0,1175
+Maruti Suzuki,Baleno Rs,Rs 1.0,998,3,37,Petrol,21.4,21.4,950
+Maruti Suzuki,S-Cross,1.3L Sigma,1248,4,48,Diesel,23.65,23.65,1215
+Maruti Suzuki,S-Cross,1.3L Delta,1248,4,48,Diesel,23.65,23.65,1224
+Maruti Suzuki,S-Cross,1.3L Zeta,1248,4,48,Diesel,23.65,23.65,1233
+Maruti Suzuki,S-Cross,1.3L Alpha,1248,4,48,Diesel,23.65,23.65,1240
+Maruti Suzuki,Ciaz,1.3L Alpha Smart Hybrid,1248,4,43,Diesel,28.09,28.09,1905
+Maruti Suzuki,Ciaz,1.3L Sigma Smart Hybrid,1248,4,43,Diesel,28.09,28.09,1785
+Maruti Suzuki,Ciaz,1.3L Delta Smart Hybrid,1248,4,43,Diesel,28.09,28.09,1830
+Maruti Suzuki,Ciaz,1.3L Zeta Smart Hybrid,1248,4,43,Diesel,28.09,28.09,1830
+Maruti Suzuki,Ciaz,1.5L Sigma Smart Hybrid,1462,4,43,Petrol,0,0,2962
+Maruti Suzuki,Ciaz,1.5L Delta Smart Hybrid,1462,4,43,Petrol,0,0,1875
+Maruti Suzuki,Ciaz,1.5L Alpha Smart Hybrid,1462,4,43,Petrol,0,0,2150
+Maruti Suzuki,Ciaz,1.5L Alpha,1498,4,43,Diesel,26.82,26.82,1612
+Maruti Suzuki,Ciaz,1.5L Delta,1498,4,43,Diesel,26032,26032,1515
+Maruti Suzuki,Ciaz,1.5L Zeta,1498,4,43,Diesel,26.32,26.32,1585
+Renault,Duster,Rxe Petrol,1498,4,50,Petrol,10.2,10.2,1296
+Renault,Duster,Rxs Petrol,1498,4,50,Petrol,10,10,1296
+Renault,Duster,Rxs (Opt) Cvt,1498,4,50,Petrol,10,10,1296
+Renault,Duster,85 Ps Rxe Mt Diesel,1461,4,50,Diesel,16,16,1296
+Renault,Duster,85 Ps Rxs Mt Diesel,1461,4,50,Diesel,16,16,1296
+Renault,Duster,110 Ps Rxs Mt Diesel,1461,4,50,Diesel,16,16,1296
+Renault,Duster,110 Ps Rxz Mt Diesel,1461,4,50,Diesel,16,16,1296
+Renault,Duster,110 Ps Rxz Amt Diesel,1461,4,50,Diesel,16,16,1296
+Renault,Lodgy,Stepway Rxl 85Ps 8-Seater,1461,4,50,Diesel,21.04,21.04,1299
+Renault,Lodgy,Stepway Rxz 85Ps 8-Seater,1461,4,50,Diesel,21.04,21.04,1299
+Renault,Lodgy,85 Ps Rxe 7 Seater,1461,4,50,Diesel,21.04,21.04,1299
+Renault,Captur,Rxe Petrol,1498,4,50,Petrol,0,0,
+Renault,Captur,Rxe Diesel,1461,4,50,Diesel,0,0,
+Renault,Captur,Platine Diesel Dual Tone,1461,4,50,Diesel,0,0,
+Renault,Captur,Platine Petrol Dual Tone,1498,4,50,Petrol,0,0,
+Skoda,Superb Sportline,Sportline 1.8L Tsi At,1798,4,66,Petrol,11.3,11.3,1540
+Skoda,Superb Sportline,Sportline 2.0L Tdi At,1968,4,66,Diesel,15.1,15.1,1565
+Skoda,Kodiaq,Style 2.0 Tdi 4X4 At,1968,4,66,Diesel,15.1,15.1,1565
+Skoda,Kodiaq,Laurin And Klement,1968,4,66,Diesel,15.1,15.1,1565
+Skoda,Kodiaq,Corporate Edition,1968,4,66,Diesel,15.1,15.1,1565
+Skoda,Monte Carlo,Monte Carlo 1.5 Tdi At,1498,4,55,Diesel,18,18,1228
+Skoda,Monte Carlo,Monte Carlo 1.6 Mpi At,1598,4,55,Petrol,12,12,1187
+Skoda,Monte Carlo,Monte Carlo 1.5 Tdi Mt,1498,4,55,Diesel,18,18,1210
+Skoda,Monte Carlo,Monte Carlo 1.6 Mpi Mt,1598,4,55,Petrol,12,12,1137
+Skoda,Superb,Style 1.8 Tsi Mt,1798,4,66,Petrol,10.6,10.6,1449
+Skoda,Superb,Style 1.8 Tsi At,1798,4,66,Petrol,10.1,10.1,1540
+Skoda,Superb,L & K 1.8 Tsi At,1798,4,66,Petrol,11.3,11.3,1540
+Skoda,Superb,L & K 2.0 Tdi At,1968,4,66,Diesel,15.1,15.1,1565
+Skoda,Superb,Style 2.0 Tdi At,1968,4,66,Diesel,15.1,15.1,1565
+Skoda,Superb,Corporate Edition 1.8 Tsi At,1798,4,66,Petrol,10.1,10.1,1540
+Skoda,Superb,Corporate Edition 2.0 Tdi At,1968,4,66,Diesel,15.1,15.1,1565
+Skoda,Kodiaq Scout,2.0 Tdi At,1968,4,63,Diesel,0,0,1799
+Skoda,Rapid,1.6 Mpi Ambition,1598,4,55,Petrol,12,12,1752
+Skoda,Rapid,1.5 Tdi Cr Active,1498,4,55,Diesel,14.5,14.5,1530
+Skoda,Rapid,1.6 Mpi Active,1598,4,55,Petrol,12,12,1990
+Skoda,Rapid,1.5 Tdi Cr Ambition,1498,4,55,Diesel,14.5,14.5,1630
+Skoda,Rapid,1.5 Tdi Cr Ambition At,1498,4,55,Diesel,14.5,14.5,720
+Skoda,Rapid,1.6 Mpi Style At,1598,4,55,Petrol,12,12,720
+Skoda,Rapid,1.5 Tdi Cr Style At,1498,4,55,Diesel,18,18,
+Skoda,Rapid,1.5 Tdi Cr Style,1498,4,55,Diesel,18,18,935
+Skoda,Rapid,1.6 Mpi Style,1598,4,55,Petrol,12,12,935
+Skoda,Rapid,1.6 Mpi Ambition At,1598,4,55,Petrol,12,12,935
+Skoda,Rapid,Onyx Mt Petrol,1598,4,55,Petrol,12,12,935
+Skoda,Rapid,Onyx At Petrol,1598,4,55,Petrol,12,12,935
+Skoda,Rapid,Onyx Mt Diesel,1498,4,55,Diesel,18,18,935
+Skoda,Rapid,Onyx At Diesel,1498,4,55,Diesel,18,18,935
+Tata,Bolt,Xt Diesel,1248,4,44,Diesel,22.95,22.95,1132
+Tata,Bolt,Xe Diesel,1248,4,44,Diesel,22.95,22.95,1132
+Tata,Bolt,Xm Diesel,1248,4,44,Diesel,22.95,22.95,1132
+Tata,Bolt,Xms Diesel,1248,4,44,Diesel,22.95,22.95,1132
+Tata,Bolt,Xt Petrol,1193,4,44,Petrol,17.57,17.57,1095
+Tata,Bolt,Xe Petrol,1193,4,44,Petrol,17.57,17.57,1095
+Tata,Bolt,Xm Petrol,1193,4,44,Petrol,17.57,17.57,1095
+Tata,Bolt,Xms Petrol,1193,4,44,Petrol,17.57,17.57,1095
+Tata,Zest,Xe Petrol,1193,4,44,Petrol,13.2,13.2,1135
+Tata,Zest,Xe Diesel,1248,4,44,Diesel,19.2,19.2,1152
+Tata,Zest,Xm Petrol,1193,4,44,Petrol,13.2,13.2,1135
+Tata,Zest,Xms Petrol,1193,4,44,Petrol,13.2,13.2,1129
+Tata,Zest,Xt Petrol,1193,4,44,Petrol,13.2,13.2,1135
+Tata,Zest,Xm Diesel,1248,4,44,Diesel,19.2,19.2,1106
+Tata,Zest,Xms Diesel,1248,4,44,Diesel,19.2,19.2,1155
+Tata,Zest,Xt Diesel,1248,4,44,Diesel,19.2,19.2,1170
+Tata,Zest,Xma Diesel,1248,4,44,Diesel,19.2,19.2,1170
+Tata,Zest,Xta Diesel,1248,4,44,Diesel,19.2,19.2,1185
+Tata,Zest,Zest Premio Edition,1248,4,44,Diesel,19.2,19.2,1155
+Tata,Hexa,Xm Plus 4X2,2179,4,60,Diesel,14,14,2280
+Tata,Hexa,Xt 4X4,2179,4,60,Diesel,14,14,2280
+Tata,Hexa,Xta 4X2,2179,4,60,Diesel,14,14,2280
+Tata,Hexa,Xt 4X2,2179,4,60,Diesel,14,14,2280
+Tata,Hexa,Xe 4X2,2179,4,60,Diesel,14,14,2280
+Tata,Hexa,Xm 4X2,2179,4,60,Diesel,14,14,2280
+Tata,Hexa,Xma 4X2,2179,4,60,Diesel,14,14,2280
+Tata,Harrier,Revotorq Xe,1956,3,50,Diesel,0,0,1615
+Tata,Harrier,Revotorq Xm,1956,3,50,Diesel,0,0,1105
+Tata,Harrier,Revotorq Xt,1956,3,50,Diesel,0,0,1105
+Tata,Harrier,Revotorq Xz,1956,3,50,Diesel,0,0,1105
+Tata,Harrier,Revotorq Xz Dual Tone,1956,3,50,Diesel,0,0,1105
+Tata,Harrier,Revotorq Dark Edition,1956,3,50,Diesel,0,0,1010
+Toyota,Etios Liva,G,1197,4,45,Petrol,15.1,15.1,895
+Toyota,Etios Liva,V,1197,4,45,Petrol,15.1,15.1,895
+Toyota,Etios Liva,Gd,1364,4,45,Diesel,20.3,20.3,895
+Toyota,Etios Liva,Vx,1197,4,45,Petrol,15.1,15.1,895
+Toyota,Etios Liva,Vxd,1364,4,45,Diesel,20.3,20.3,895
+Toyota,Etios Liva,Vd,1364,4,45,Diesel,20.3,20.3,895
+Toyota,Etios Liva,Dual Tone V,1197,4,45,Petrol,15.1,15.1,895
+Toyota,Etios Liva,Dual Tone Vd,1364,4,45,Diesel,20.3,20.3,895
+Toyota,Etios Liva,Dual Tone Vx,1197,4,45,Petrol,15.1,15.1,895
+Toyota,Etios Liva,Dual Tone Vxd,1364,4,45,Diesel,20.3,20.3,895
+Toyota,Etios Liva,Gx,1197,4,45,Petrol,15.1,15.1,895
+Toyota,Etios Liva,Gxd,1364,4,45,Diesel,20.3,20.3,895
+Toyota,Etios Liva,Vx Dual Tone Limited Edition,1197,4,45,Petrol,15.1,15.1,895
+Toyota,Etios Liva,Vxd Dual Tone Limited Edition,1364,4,45,Diesel,20.3,20.3,895
+Toyota,Platinum Etios,G,1496,4,45,Petrol,13.6,13.6,935
+Toyota,Platinum Etios,V,1496,4,45,Petrol,13.6,13.6,935
+Toyota,Platinum Etios,Gd,1364,4,45,Diesel,20.32,20.32,1020
+Toyota,Platinum Etios,Vd,1364,4,45,Diesel,20.3,20.3,1020
+Toyota,Platinum Etios,Vxd,1364,4,45,Diesel,20.32,20.32,1020
+Toyota,Platinum Etios,Vx,1496,4,45,Petrol,13.6,13.6,990
+Toyota,Platinum Etios,Gx,1496,4,45,Petrol,13.6,13.6,935
+Toyota,Platinum Etios,Gxd,1364,4,45,Diesel,20.3,20.3,1020
+Toyota,Platinum Etios,Vxd Limited Edition,1364,4,45,Diesel,20.32,20.32,1020
+Toyota,Platinum Etios,Vx Limited Edition,1496,4,45,Petrol,13.6,13.6,990
+Toyota,Etios Cross,V,1496,4,45,Petrol,15,15,950
+Toyota,Etios Cross,G,1197,4,45,Petrol,16.78,16.78,935
+Toyota,Etios Cross,Vd,1364,4,45,Diesel,18.1,18.1,1030
+Toyota,Etios Cross,Gd,1364,4,45,Diesel,18.1,18.1,1015
+Toyota,Etios Cross,1.2 X Edition,1197,4,45,Petrol,16.78,16.78,935
+Toyota,Etios Cross,1.4 X Edition,1364,4,45,Diesel,18.1,18.1,1015
+Toyota,Glanza,G Hybrid,1197,4,37,Petrol,23.87,23.87,910
+Toyota,Glanza,V,1197,4,37,Petrol,21.01,21.01,890
+Toyota,Glanza,G Cvt,1197,4,37,Petrol,19.56,19.56,935
+Toyota,Glanza,V Cvt,1197,4,37,Petrol,19.56,19.56,935
+Toyota,Glanza,G Mt,1197,4,37,Petrol,19.56,19.56,935
+Toyota,Land Cruiser Prado,Vx L,2982,4,87,Diesel,7,7,
+Toyota,Innova Crysta,2.4 Gx 7 Str,2393,4,55,Diesel,12,12,1805
+Toyota,Innova Crysta,2.4 Vx 7 Str,2393,4,55,Diesel,12,12,1815
+Toyota,Innova Crysta,2.4 Gx 8 Str,2393,4,55,Diesel,12,12,1825
+Toyota,Innova Crysta,2.4 Vx 8 Str,2393,4,55,Diesel,12,12,1820
+Toyota,Innova Crysta,2.4 Zx 7 Str,2393,4,55,Diesel,12,12,1870
+Toyota,Innova Crysta,2.7 Gx At 8 Str,2694,4,55,Petrol,11.2,11.2,1825
+Toyota,Innova Crysta,2.7 Gx At 7 Str,2694,4,55,Petrol,11.2,11.2,1825
+Toyota,Innova Crysta,2.7 Zx At 7 Str,2393,4,55,Petrol,11.2,11.2,1870
+Toyota,Innova Crysta,2.7 Vx 7 Str,2393,4,55,Petrol,11.2,11.2,1815
+Toyota,Innova Crysta,2.7 Gx Mt 7 Str,2755,4,55,Petrol,11.2,11.2,1825
+Toyota,Innova Crysta,2.7 Gx Mt 8 Str,2755,4,55,Petrol,11.2,11.2,1825
+Toyota,Innova Crysta,Touring Sport 2.4 Vx 7 Str,2393,4,55,Diesel,12,12,1828
+Toyota,Innova Crysta,Touring Sport 2.7 Vx 7 Str,2393,4,55,Petrol,11.2,11.2,1815
+Toyota,Innova Crysta,Touring Sport 2.7 Zx At 7 Str,2694,4,55,Petrol,11.2,11.2,1870
+Toyota,Innova Crysta,2.4 G Plus 7 Str,2393,4,55,Diesel,12,12,1805
+Toyota,Innova Crysta,2.4 G Plus 8 Str,2393,4,55,Diesel,12,12,1825
+Toyota,Corolla Altis,G Petrol,1798,4,55,Petrol,9.5,9.5,1220
+Toyota,Corolla Altis,G At Petrol,1798,4,55,Petrol,9.5,9.5,1260
+Toyota,Corolla Altis,Gl Petrol,1798,4,55,Petrol,9.5,9.5,1280
+Toyota,Corolla Altis,Gl Diesel,1364,4,43,Diesel,18.2,18.2,1270
+Toyota,Corolla Altis,G Diesel,1364,4,43,Diesel,18.4,18.4,1230
+Toyota,Corolla Altis,Vl At Petrol,1798,4,55,Petrol,9.5,9.5,1310
+Toyota,Fortuner,2.8 4X2 At,2755,4,80,Diesel,12.55,12.55,1970
+Toyota,Fortuner,2.8 4X2 Mt,2755,4,80,Diesel,12.55,12.55,1970
+Toyota,Fortuner,Trd Celebratory Edition,2755,4,80,Diesel,12.55,12.55,1970
+Toyota,Land Cruiser,Vx,4461,8,93,Diesel,5.3,5.3,2740
+Toyota,Prius,Z8,1798,4,43,Hybrid,15.1,15.1,2000
