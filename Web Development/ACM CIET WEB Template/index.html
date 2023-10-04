@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <!-- basic -->
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <!-- mobile metas -->
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+   <!-- site metas -->
+   <title>potoub</title>
+   <meta name="keywords" content="">
+   <meta name="description" content="">
+   <meta name="author" content="">
+   <link rel="stylesheet" href="css/bootstrap.min.css">
+   <link rel="stylesheet" href="css/style.css">
+   <link rel="stylesheet" href="css/responsive.css">
+   <link rel="icon" href="images/fevicon.png" type="image/gif" />
+   <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
+   <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css"
+      media="screen">
+   <script src="https://cdn.tailwindcss.com"></script>
+   <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+
+   <style>
+      main {
+         display: none;
+      }
+
+      .spinner {
+         width: 66px;
+         height: 66px;
+         display: grid;
+         color: #11aeef;
+         background: radial-gradient(farthest-side, currentColor calc(100% - 7px), #0000 calc(100% - 6px) 0);
+         -webkit-mask: radial-gradient(farthest-side, #0000 calc(100% - 15px), #000 calc(100% - 13px));
+         border-radius: 50%;
+         animation: spinner-sm4bhi 2s infinite linear;
+      }
+
+      .spinner::before,
+      .spinner::after {
+         content: "";
+         grid-area: 1/1;
+         background: linear-gradient(currentColor 0 0) center,
+            linear-gradient(currentColor 0 0) center;
+         background-size: 100% 11px, 11px 100%;
+         background-repeat: no-repeat;
+      }
+
+      .spinner::after {
+         transform: rotate(45deg);
+      }
+
+      @keyframes spinner-sm4bhi {
+         100% {
+            transform: rotate(1turn);
+         }
+      }
+   </style>
+
+</head>
+
+<body class="main-layout" onload="myFunction()">
+
+
+
+   <!-- loader  -->
+   <div class="spinner" id="loader" style="margin-top: 45vh; margin-left: 45vw;"></div>
+
+   <!-- end loader -->
+
+   <main id="main">
+
+      <div class="wrapper">
+         <!-- end loader -->
+         <div class="sidebar">
+            <!-- Sidebar  -->
+            <nav id="sidebar">
+               <div id="dismiss">
+                  <i class="fa fa-arrow-left"></i>
+               </div>
+               <ul class="list-unstyled components text-black">
+                  <li class="active"> <a href="#">Home</a> </li>
+                  <li><a href="#about">About </a> </li>
+                  <li><a href="#work">Work</a> </li>
+                  <li><a href="#contact">Contact </a> </li>
+               </ul>
+            </nav>
+         </div>
+         <div id="content">
+            <!-- header -->
+            <header>
+               <!-- header inner -->
+               <div class="header">
+                  <div class="container-fluid">
+                     <div class="row">
+                        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
+                           <div class="full">
+                              <div class="center-desk">
+                                 <div class="logo">
+                                    <a href="index.html"><img src="images\acm_logo_tablet.svg" alt="#" /></a>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9">
+                           <ul class="btn">
+
+                              <li><button type="button" id="sidebarCollapse">
+                                    <img src="images/menu_icon.png" alt="#" />
+                                 </button>
+                              </li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </header>
+
+            <!-- end header inner -->
+            <!-- end header -->
+            <!-- banner -->
+            <div id="myCarousel" class="carousel slide banner_main" data-ride="carousel">
+               <div class="carousel-inner">
+                  <div class="carousel-item active">
+                     <div class="container-fluid">
+                        <div class="carousel-caption">
+                           <div class="row">
+                              <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12" >
+                                 <div class="text-bg">
+                                    <h1 data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true">ACM<br>Student Chapter<br>CIET</h1>
+                                    <p data-aos="fade-right"
+                                    data-aos-offset="300"
+                                    data-aos-easing="ease-in-sine" data-aos-once="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                       incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis </p>
+                                    <a class="read_more" href="#" data-aos="fade-in" data-aos-duration="500" data-aos-once="true">About Us</a>
+                                 </div>
+                              </div>
+                              <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
+                                 <div class="images_box">
+                                    <figure><img src="images/img2.png"></figure>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+
+               </div>
+            </div>
+         </div>
+      </div>
+      </div>
+      <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+         <i class="fa fa-long-arrow-left" aria-hidden="true"></i>
+      </a>
+      <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+         <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+      </a>
+      </div>
+      <!-- end banner -->
+      <!-- about -->
+      <div id="about" class="about my-6">
+         <div class="container-fluid">
+            <div class="row d_flex">
+               <div class="col-md-5">
+                  <div class="about_img">
+                     <figure><img src="images/about_img.jpg" alt="#" /></figure>
+                  </div>
+               </div>
+               <div class="col-md-7">
+                  <div class="titlepage">
+                     <h2>About <span class="blu">Us</span></h2>
+                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                        laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+                        voluptate velit </p>
+                     <a class="read_more">Read More</a>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- end about -->
+      <!-- choose  section -->
+      <div class="choose ">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-12">
+                  <div class="titlepage my-6">
+                     <h2>Why <span class="blu"> Choose Us</span></h2>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="choose_bg">
+            <div class="container">
+               <div class="row">
+                  <div class="col-md-12">
+                     <div class="row">
+                        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 padding_right0">
+                           <ul class="easy">
+                              <li class="active"><a href="#">Easy to cutomize</a></li>
+                              <li><a href="#">More flexible</a></li>
+                              <li><a href="#">Clean mode</a></li>
+                              <li><a href="#">Ratinaready</a></li>
+                           </ul>
+                        </div>
+                        <div class="col-xl-9 col-lg-9 col-md-9 col-sm-12 padding_left0">
+                           <div class="choose_box">
+                              <i><img src="images/admin.png" alt="#" /></i>
+                              <h3> Ad Minim</h3>
+                              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                                 exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+                                 dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                                 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+                                 mollit anim id est laborum."</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+
+      <section class="text-gray-600 body-font">
+         <div class="container px-5 py-24 mx-auto">
+            <div class="flex flex-col text-center w-full mb-20">
+               <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">Master Cleanse Reliac Heirloom
+               </h1>
+               <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn
+                  asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them man
+                  bun deep jianbing selfies heirloom.</p>
+            </div>
+            <div class="flex flex-wrap -m-4">
+               <div class="lg:w-1/3 sm:w-1/2 p-4">
+                  <div class="flex relative">
+                     <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center"
+                        src="https://dummyimage.com/600x360">
+                     <div
+                        class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+                        <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE
+                        </h2>
+                        <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Shooting Stars</h1>
+                        <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
+                           microdosing tousled waistcoat.</p>
+                     </div>
+                  </div>
+               </div>
+               <div class="lg:w-1/3 sm:w-1/2 p-4">
+                  <div class="flex relative">
+                     <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center"
+                        src="https://dummyimage.com/601x361">
+                     <div
+                        class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+                        <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE
+                        </h2>
+                        <h1 class="title-font text-lg font-medium text-gray-900 mb-3">The Catalyzer</h1>
+                        <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
+                           microdosing tousled waistcoat.</p>
+                     </div>
+                  </div>
+               </div>
+               <div class="lg:w-1/3 sm:w-1/2 p-4">
+                  <div class="flex relative">
+                     <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center"
+                        src="https://dummyimage.com/603x363">
+                     <div
+                        class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+                        <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE
+                        </h2>
+                        <h1 class="title-font text-lg font-medium text-gray-900 mb-3">The 400 Blows</h1>
+                        <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
+                           microdosing tousled waistcoat.</p>
+                     </div>
+                  </div>
+               </div>
+               <div class="lg:w-1/3 sm:w-1/2 p-4">
+                  <div class="flex relative">
+                     <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center"
+                        src="https://dummyimage.com/602x362">
+                     <div
+                        class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+                        <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE
+                        </h2>
+                        <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Neptune</h1>
+                        <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
+                           microdosing tousled waistcoat.</p>
+                     </div>
+                  </div>
+               </div>
+               <div class="lg:w-1/3 sm:w-1/2 p-4">
+                  <div class="flex relative">
+                     <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center"
+                        src="https://dummyimage.com/605x365">
+                     <div
+                        class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+                        <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE
+                        </h2>
+                        <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Holden Caulfield</h1>
+                        <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
+                           microdosing tousled waistcoat.</p>
+                     </div>
+                  </div>
+               </div>
+               <div class="lg:w-1/3 sm:w-1/2 p-4">
+                  <div class="flex relative">
+                     <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center"
+                        src="https://dummyimage.com/606x366">
+                     <div
+                        class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+                        <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE
+                        </h2>
+                        <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Alper Kamu</h1>
+                        <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
+                           microdosing tousled waistcoat.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+
+
+      <div class="text-center w-full ">
+
+      </div>
+      <div
+         class="relative max-w-screen-xl mt-24 px-8 md:px-12 lg:px-16 xl:px-32 py-16 mx-auto bg-gray-100 text-gray-900 sm:rounded-lg shadow-lg">
+         <div class="absolute right-0 bottom-0 hero-pattern w-64 h-56 bg-blue-500"></div>
+         <div class="relative">
+            <div>
+               <h2 class="text-center text-gray-800 text-4xl lg:text-5xl font-bold leading-tight">Our Faculty Advisors
+               </h2>
+               <div class="my-4 mx-auto w-12 h-2 border-4 border-blue-500"></div>
+               <div class="text-center text-gray-700 font-light">Best Mentors are the reason behind success and at ACM
+                  Student Chapter CIET we have the Best ones
+               </div>
+            </div>
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:mx-12">
+               <div
+                  class="relative mx-auto mt-8 rounded-lg shadow max-w-sm p-10 bg-gray-100 text-gray-700 leading-snug flex flex-col justify-between">
+                  <div class="-ml-4">
+                     <svg class="w-8 opacity-25 text-blue-500" xmlns="http://www.w3.org/2000/svg"
+                        shape-rendering="geometricPrecision" text-rendering="geometricPrecision"
+                        image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+                        viewBox="0 0
+                                                                                                                    640 640" fill=currentColor>
+                        <path
+                           d="M557.133 561.704H442.128c-44.256 0-80.458-36.19-80.458-80.446 0-165.58-42.32-347.485 160.656-399.418 91.95-23.516 115.915 77.753 18.119 84.745-59.647 4.276-71.293 42.804-73.147 101.068h92.269c44.256 0 80.458 36.201 80.458 80.458v130.702c0 45.591-37.3 82.89-82.891 82.89zm-358.032 0H84.096c-44.256 0-80.446-36.19-80.446-80.446 0-165.58-42.331-347.485 160.644-399.418 91.95-23.516 115.915 77.753 18.118 84.745-59.646 4.276-71.292 42.804-73.146 101.068h92.269c44.256 0 80.457 36.201 80.457 80.458v130.702c0 45.591-37.3 82.89-82.89 82.89z" />
+                     </svg>
+                  </div>
+                  <div class="mt-2">
+                     I felt disorganized. Pieces of paper everywhere. I was constantly making new lists, losing old
+                     ones,
+                     crossing off items and adding new ones. I was forever worried things were slipping and not getting
+                     done. My
+                     brain was tired
+                  </div>
+                  <div>
+                     <div class="mx-auto w-full border border-gray-300 my-8"></div>
+                     <div class="flex items-center">
+                        <div>
+                           <img class="w-12 h-12 rounded-full border-2 border-indigo-400"
+                              src="https://avatars2.githubusercontent.com/u/2741?s=64&v=4">
+                        </div>
+                        <div class="ml-4">
+                           <div class="font-bold">Dr. Saravjeet Singh</div>
+                           <div class="text-sm text-gray-600 mt-1">Faculty Advisor, ACM Student Chapter CIET</div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div
+                  class="mx-auto mt-8 rounded-lg shadow max-w-sm p-10 bg-gray-100 text-gray-700 leading-snug flex flex-col justify-between">
+                  <div class="-ml-4">
+                     <svg class="w-8 opacity-25 text-blue-500" xmlns="http://www.w3.org/2000/svg"
+                        shape-rendering="geometricPrecision" text-rendering="geometricPrecision"
+                        image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+                        viewBox="0 0
+                                                                                                                    640 640" fill=currentColor>
+                        <path
+                           d="M557.133 561.704H442.128c-44.256 0-80.458-36.19-80.458-80.446 0-165.58-42.32-347.485 160.656-399.418 91.95-23.516 115.915 77.753 18.119 84.745-59.647 4.276-71.293 42.804-73.147 101.068h92.269c44.256 0 80.458 36.201 80.458 80.458v130.702c0 45.591-37.3 82.89-82.891 82.89zm-358.032 0H84.096c-44.256 0-80.446-36.19-80.446-80.446 0-165.58-42.331-347.485 160.644-399.418 91.95-23.516 115.915 77.753 18.118 84.745-59.646 4.276-71.292 42.804-73.146 101.068h92.269c44.256 0 80.457 36.201 80.457 80.458v130.702c0 45.591-37.3 82.89-82.89 82.89z" />
+                     </svg>
+                  </div>
+                  <div class="mt-2">
+                     I felt disorganized. Pieces of paper everywhere. I was constantly making new lists, losing old
+                     ones,
+                     crossing off items and adding new ones. I was forever worried things were slipping and not getting
+                     done. My
+                     brain was tired
+                  </div>
+                  <div>
+                     <div class="mx-auto w-full border border-gray-300 my-8"></div>
+                     <div class="flex items-center">
+                        <div>
+                           <img class="w-12 h-12 rounded-full border-2 border-indigo-400"
+                              src="https://avatars0.githubusercontent.com/u/810438?s=100">
+                        </div>
+                        <div class="ml-4">
+                           <div class="font-bold">Dr. Ravneet Kaur</div>
+                           <div class="text-sm text-gray-600 mt-1">Faculty Advisor, ACM Student Chapter CIET</div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+
+
+
+      <div id="work"  class="work">
+         <div class="container-fluid">
+            <div class="row d_flex">
+               <div class="col-md-7">
+                  <div class="titlepage">
+                     <h2>How To <span class="blu">Works it</span></h2>
+                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit </p>
+                     <a class="read_more">Read More</a>
+                  </div>
+               </div>
+               <div class="col-md-5">
+                  <div class="work_img">
+                     <figure><img src="images/work_img.jpg" alt="#"/></figure>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+
+      <hr>
+      
+
+
+ 
+      <!--  footer -->
+      <footer>
+         <div class="footer">
+            <div class="container">
+               <div class="row">
+                  <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
+                     <div class="row">
+                        <div class="col-md-8 col-sm-6">
+                           <div class="address">
+
+                           </div>
+                           <img src="images\acm_logo_tablet.svg" alt="">
+                        </div>
+
+                     </div>
+                  </div>
+                  <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
+                     <div class="row">
+                        <div class="col-md-5 col-sm-6">
+                           <div class="address mt-6">
+                              <h3>Follow Us</h3>
+                           </div>
+                           <ul class="social_icon">
+                              <li>&nbsp;<a href="#">&nbsp;&nbsp;<i class="fa fa-twitter" aria-hidden="true"></i></a>
+                              </li>
+                              <li>&nbsp;<a href="#">&nbsp;&nbsp;<i class="fa fa-linkedin-square"
+                                       aria-hidden="true"></i></a></li>
+                              <li>&nbsp;<a href="#">&nbsp;&nbsp;<i class="fa fa-instagram" aria-hidden="true"></i></a>
+                              </li>
+                           </ul>
+                        </div>
+                        <div class="col-md-7 col-sm-6">
+                           <div class="address">
+                              <h3>Newsletter </h3>
+                           </div>
+                           <form class="bottom_form">
+                              <input class="enter" placeholder="Enter Your Email" type="text" name="Enter Your Email">
+                              <button class="sub_btn">subscribe</button>
+                           </form>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="copyright mb-0">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-md-12">
+                        <p>Copyright 2019 All Right Reserved By <a href="https://html.design/"> Free html Templates</a>
+                        </p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </footer>
+      <!-- end footer -->
+      </div>
+      <div class="overlay"></div>
+   </main>
+
+   <!-- Javascript files-->
+   <script src="js/jquery.min.js"></script>
+   <script src="js/popper.min.js"></script>
+   <script src="js/bootstrap.bundle.min.js"></script>
+   <script src="js/jquery-3.0.0.min.js"></script>
+   <!-- sidebar -->
+   <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+   <script src="js/custom.js"></script>
+   <script type="text/javascript">
+      $(document).ready(function () {
+         $("#sidebar").mCustomScrollbar({
+            theme: "minimal"
+         });
+
+         $('#dismiss, .overlay').on('click', function () {
+            $('#sidebar').removeClass('active');
+            $('.overlay').removeClass('active');
+         });
+
+         $('#sidebarCollapse').on('click', function () {
+            $('#sidebar').addClass('active');
+            $('.overlay').addClass('active');
+            $('.collapse.in').toggleClass('in');
+            $('a[aria-expanded=true]').attr('aria-expanded', 'false');
+         });
+      });
+   </script>
+   <script>
+      $(document).ready(function () {
+         $(".fancybox").fancybox({
+            openEffect: "none",
+            closeEffect: "none"
+         });
+
+         $(".zoom").hover(function () {
+
+            $(this).addClass('transition');
+         }, function () {
+
+            $(this).removeClass('transition');
+         });
+      });
+   </script>
+   <script>
+      var myVar;
+
+      function myFunction() {
+         myVar = setTimeout(showPage, 2500);
+      }
+
+      function showPage() {
+         let x = document.body
+         document.body.style.backgroundColor = 'white';
+         document.getElementById("loader").style.display = "none";
+         document.getElementById("main").style.display = "block";
+         AOS.init();
+
+      }
+   </script>
+   <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
+
+
+</body>
+
+</html>
