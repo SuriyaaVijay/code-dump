@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UI Music Player</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css" />
+    <div class="container"> 
+    <div class="phone light">
+        <div id="top-menu">
+        <div class="button">
+            <i class="fas fa-arrow-left"></i>
+        </div>
+        <button id="mode" class="button">
+            <i class="bi bi-brightness-high-fill" id="toggleDark"></i> 
+        </button>
+        <div class="button">
+            <i class="fas fa-bars"></i>
+        </div>
+        </div>
+        
+        <div class="thumbnail-border">
+        <div class="song-thumbnail"></div>
+        </div>
+        
+        <div id="song-details">
+        <h1 class="song-title">SUMMER</h1>
+        <span class="artist">Band ft. Song Artist</span>
+        </div>
+
+        <div id="time-slider">
+        <div class="slider-times">
+            <span>1:21</span> 
+            <span>3:46</span> 
+        </div>
+        <input type="range" min="1" max="100" value="50" class="slider" id="myRange">
+        </div>
+        
+        <div id="song-controls">
+        <div class="button">
+            <i class="fas fa-backward"></i>
+        </div>
+        <div class="button">
+            <i class="fas fa-pause"></i>
+        </div>
+        <div class="button">
+            <i class="fas fa-forward"></i>
+        </div>
+        </div>
+    </div> 
+    </div>
+</body>
+</html>
