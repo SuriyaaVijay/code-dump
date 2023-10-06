@@ -1,48 +1,30 @@
 #include <iostream>
-#include <vector>
+
 using namespace std;
 
-void sortZeroesAndOnes(vector<int> &v)
-{
-    int left_ptr = 0;
-    int right_ptr = v.size()-1;
-
-    while(left_ptr<right_ptr)
-    {
-        if(v[left_ptr]==1 && v[right_ptr]==0){
-            v[left_ptr++]=0;
-            v[right_ptr--]=1;
-        }
-
-        if(v[left_ptr]==0){
-            left_ptr++;
-        }
-
-        if(v[right_ptr]==1){
-            right_ptr--;
-        }
+void printArray(int arr[],int n){ /*To print the sorted array*/
+    for(int i=0;i<n;i++){
+cout<<arr[i]<<" ";
     }
+    cout<<endl;
 }
-
-int main()
-{
-    int n;
-    cin>>n;
-
-    vector<int> v;
-
-    for(int i=0; i<n; i++)
-    {
-        int ele;
-        cin>>ele;
-        v.push_back(ele);
-    }
-
-    sortZeroesAndOnes(v);
-
-    for(int i=0; i<n; i++)
-    {
-        cout<<v[i]<<" ";
-    }cout<<endl;
+void sortOne(int arr[],int n){ /*sort the 0 and 1*/
+int left=0,right=n-1;
+while(left<right){
+   while(arr[left]==0){
+     left++;
+}
+   while(arr[right]==1){
+     right--;
+}
+swap(arr[left],arr[right]);/*arr[left]==1 and arr[right]==0 so swap the term*/
+left++;
+right--;
+ }
+}
+int main(){
+    int arr[9]={1,0,0,1,0,1,1,0,0};
+     sortOne(arr,9);
+     printArray(arr,9);
     return 0;
 }

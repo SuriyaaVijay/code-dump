@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+* {
+   margin: 0;
+   padding: 0;
+   text-decoration: none;
+   list-style-type: none;
+   box-sizing: border-box;
+
+}
+
+*,
+*:focus {
+   border: none;
+   outline: none;
+}
+
+:root {
+   --blue-green: #219ebcff;
+   --prussian-blue: #023047ff;
+   --selective-yellow: #ffb703ff;
+   --ut-orange: #fb8500ff;
+   --p-font: 'Bebas Neue', sans-serif;
+   --main-font: 'Poppins', sans-serif;
+}
+
+
+/* https: //youtu.be/i0beHo6C0gw   */
+/* https: //youtu.be/anzqGc3Rbws  */
+/* https: //youtu.be/fEv42XYkkDU */
+/* https: //youtu.be/BApazaSINDU */
