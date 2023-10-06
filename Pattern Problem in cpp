@@ -1,0 +1,72 @@
+#include <iostream>
+using namespace std;
+
+//             1
+//         2 1   1 2
+//     3 2 1       1 2 3
+// 4 3 2 1           1 2 3 4
+//     3 2 1       1 2 3
+//         2 1   1 2
+//             1
+
+int main()
+{
+    // For Upper Triangle
+    for (int i = 0; i < 4; i++)
+    {
+
+        // For loop for starting  space
+        for (int j = i; j < 6 - i; j++)
+        {
+            cout << "  ";
+        }
+
+        for (int j = i; j >= 0; j--)
+        {
+            cout << j + 1 << " ";
+        }
+
+        // For loop for middle space
+        for (int j = 0; j < (2 * i) - 1; j++)
+        {
+            cout << "  ";
+        }
+        if (i > 0)
+        {
+            for (int j = 0; j <= i; j++)
+            {
+                cout << j + 1 << " ";
+            }
+        }
+
+        cout << "\n";
+    }
+
+    // For Lower Triangle
+    for (int i = 0; i < 3; i++)
+    {
+        for (int j = 0; j < (2 * i) + 2; j++)
+        {
+            cout << "  ";
+        }
+
+        for (int j = 3 - i; j > 0; j--)
+        {
+            cout << j << " ";
+        }
+        for (int j = 3 - i; j > i; j--)
+        {
+            cout << "  ";
+        }
+
+        if (i < 2)
+        {
+            for (int j = 0; j < (3 - i); j++)
+            {
+                cout << j + 1 << " ";
+            }
+        }
+
+        cout << "\n";
+    }
+}
