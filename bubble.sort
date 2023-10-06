@@ -1,0 +1,12 @@
+public static void bubblesort(int arr[]) {
+        for (int turns = 0; turns< arr.length -1; turns++){
+            for(int j =0; j < arr.length - turns - 1; j++){
+                if(arr[j] > arr[j+1]){
+                    //swap
+                    int temp = arr[j];
+                    arr[j] = arr[j+1];
+                    arr[j+1] = temp;
+                }
+            }
+        }  
+    }
