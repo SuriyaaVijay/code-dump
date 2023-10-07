@@ -1,0 +1,38 @@
+#include <iostream>
+#include <unordered_map>
+using namespace std;
+
+class Solution {
+public:
+    int lengthOfLongestSubstring(string s) {
+        unordered_map<char, int> charIndex; // Stores the index of characters in the string
+        int maxLength = 0;
+        int left = 0; // Left pointer of the sliding window
+
+        for (int right = 0; right < s.length(); ++right) {
+            // If the character is already in the map and its index is greater than or equal to the left pointer
+            if (charIndex.find(s[right]) != charIndex.end() && charIndex[s[right]] >= left) {
+                left = charIndex[s[right]] + 1; // Move the left pointer to the next index after the repeating character
+            }
+
+            charIndex[s[right]] = right; // Update the index of the current character
+            maxLength = max(maxLength, right - left + 1); // Update the maximum length of substring
+        }
+
+        return maxLength;
+    }
+};
+
+int main() {
+    Solution obj;
+    string s1 = "abcabcbb";
+    cout << "Length of the longest substring without repeating characters: " << obj.lengthOfLongestSubstring(s1) << endl;
+
+    string s2 = "bbbbb";
+    cout << "Length of the longest substring without repeating characters: " << obj.lengthOfLongestSubstring(s2) << endl;
+
+    string s3 = "pwwkew";
+    cout << "Length of the longest substring without repeating characters: " << obj.lengthOfLongestSubstring(s3) << endl;
+
+    return 0;
+}
