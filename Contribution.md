@@ -10,6 +10,10 @@ Name : Piumi Rathnayake [https://github.com/Piumir3]
 place : sri lanka
 About Me : I am very passionate to web development , I'm Undergraduate Student from University of Moratuwa, Faculty of Information Technology.
 
+Name: Trishan Wagle [https://github.com/trishan9]
+Place: Nepal
+About: I am a passinate Full Stack Web Developer.
+
 Name: Md Sarfaraz Alam [https://github.com/mdsarfarazalam840]
 Place: Bangaluru
 About: I am a passinate Full Stack Web Dev, wanted to learn more in MEAN and MERN stack and I am interested in Open Source Contribution.
