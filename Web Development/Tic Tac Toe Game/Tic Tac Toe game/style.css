@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&family=Roboto&display=swap');
 
+body{
+    background-color: aquamarine;
+    color: rgb(30, 1, 56);
+    margin: auto;
+    
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -36,7 +43,7 @@ nav ul{
 }
 
 .box{
-    border: 2px solid black;
+    border: 2px solid rgb(2, 21, 25);
     font-size: 8vw;
     cursor: pointer;
     display: flex;
@@ -45,7 +52,7 @@ nav ul{
 }
 
 .box:hover{
-    background-color: rgb(186, 164, 207);
+    background-color: rgb(249, 195, 101);
 }
 
 .info{
@@ -88,6 +95,36 @@ nav ul{
     background-color: rgb(218, 155, 218);
     border-radius: 10px;
     cursor: pointer;
+    background-color: #fff;
+    padding: 0.8em 1.5em;
+    border-radius: 20em;
+    border: none;
+    user-select: none;
+    cursor: pointer;
+    font-size: 20px;
+    transition: all 100ms linear;
+    color: #0ebac5;
+    position: relative;
+    box-shadow: inset 0 4px 6px -1px rgb(0 0 0 / 0.1), 
+    0 2px 4px -2px rgb(0 0 0 / 0.1);
+    padding: 10px 10px ;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 0 23px;
+}
+body{
+    background-color: #5dceee;
+}
+footer .footer-rights{
+    background-color: #C8E4B2;
+    text-align: center;
+    color: darkslategray;
+    padding: 15px;
+    display: flex;
+    padding: 23px;
+    
+    
+
 }
 
 
