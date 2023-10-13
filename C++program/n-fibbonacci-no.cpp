@@ -1,20 +1,29 @@
-class Solution
-{
-    public:
-    //Function to return list containing first n fibonacci numbers.
-    vector<long long> printFibb(int n) 
-    {
-        vector<long long>a(n);
-        a[0]=1;
-        a[1]=1;
-        if(n==1)
-        {
-            return a;
+#include <iostream>
+using namespace std;
+
+int main() {
+    int n, t1 = 0, t2 = 1, nextTerm = 0;
+
+    cout << "Enter the number of terms: ";
+    cin >> n;
+
+    cout << "Fibonacci Series: ";
+
+    for (int i = 1; i <= n; ++i) {
+        // Prints the first two terms.
+        if(i == 1) {
+            cout << t1 << ", ";
+            continue;
         }
-        for(int i=2;i<n;i++)
-        {
-            a[i]=a[i-2]+a[i-1];
+        if(i == 2) {
+            cout << t2 << ", ";
+            continue;
         }
-        return a;
+        nextTerm = t1 + t2;
+        t1 = t2;
+        t2 = nextTerm;
+        
+        cout << nextTerm << ", ";
     }
-};
+    return 0;
+}
