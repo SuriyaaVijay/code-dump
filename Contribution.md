@@ -18,3 +18,7 @@ About: I am a passinate Full Stack Web Dev, wanted to learn more in MEAN and MER
 Name: Saurabh Singh Chauhan [https://github.com/Saurabh-001-S]
 Place: Kanpur
 About: I am a Frontend Web Developer, wanted to leaning about web development and making good stuff to inhance my skills and I am interested in Open Source Contribution.
+
+Name: Gayathri [https://github.com/GAYATHRI1924]
+Place: Banglore
+About: I am a passinate Full Stack  Developer, wanted to learn more about web development and I am interested in Open Source Contribution.
