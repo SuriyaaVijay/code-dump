@@ -31,5 +31,6 @@ United Kingdom - https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/
 
 |[Darshit Dudhaiya](https://github.com/darshitdudhaiya)   | <img src="https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/5adfd776-ce7e-4467-92dd-727a12239cd1" alt="India" width="32" height="32">   | I'm a Student and full-stack web developer and i enthusiast about coding. |
 
+|[Venkatesh Sanwal](https://github.com/Venkateshsanwal)   | <img src="https://avatars.githubusercontent.com/u/115449810?v=4" alt="India" width="32" height="32">   | I am uni third year and passionate about coding and data science novice. |
 
 
