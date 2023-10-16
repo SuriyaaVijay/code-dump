@@ -6,7 +6,7 @@ using namespace std;
  
 vector<vector<int> > result;
  
-/* A utility function to check if a queen can
+/* A utility functio to check if a queen can
 be placed on board[row][col]. Note that this
 function is called when "col" queens are
 already placed in columns from 0 to col -1.

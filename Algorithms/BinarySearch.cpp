@@ -11,7 +11,7 @@ int binarySearch(int array[], int x, int low, int high) {
     if (array[mid] > x)
       return binarySearch(array, x, low, mid - 1);
 
-    // Search the right half
+    // Search the right 
     return binarySearch(array, x, mid + 1, high);
   }
   return -1;
