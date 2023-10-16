@@ -1,0 +1,13 @@
+.background{
+    height: 80%;
+    width: 80%;
+    top:50%;
+    left:50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+#anchor{
+    border-radius: 100%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
