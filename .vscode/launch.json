@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Srijita Baksi/Desktop/HacktoberFest2023_Matrix",
-      "program": "c:/Users/Srijita Baksi/Desktop/HacktoberFest2023_Matrix/build/Debug/outDebug",
+      "cwd": "e:/Hacktober Repos/pr4/Hacktober_Fest",
+      "program": "e:/Hacktober Repos/pr4/Hacktober_Fest/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
