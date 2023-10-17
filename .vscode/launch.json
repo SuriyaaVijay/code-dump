@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/Hacktober Repos/pr4/Hacktober_Fest",
-      "program": "e:/Hacktober Repos/pr4/Hacktober_Fest/build/Debug/outDebug",
+      "cwd": "e:/Hacktoberfest 2023/Repository3/Hacktoberfest2023-2",
+      "program": "e:/Hacktoberfest 2023/Repository3/Hacktoberfest2023-2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
