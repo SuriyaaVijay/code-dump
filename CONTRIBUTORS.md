@@ -30,6 +30,7 @@ United Kingdom - https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/
 |[Ritik](https://github.com/iKoNFlair)   | <img src="https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/5adfd776-ce7e-4467-92dd-727a12239cd1" alt="India" width="32" height="32">   | I'm a passionate full-stack web developer with a strong foundation in both web techs as well as in DSA. |
 
 |[Darshit Dudhaiya](https://github.com/darshitdudhaiya)   | <img src="https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/5adfd776-ce7e-4467-92dd-727a12239cd1" alt="India" width="32" height="32">   | I'm a Student and full-stack web developer and i enthusiast about coding. |
+|[Naveen Kumar .v](https://github.com/NK-dev-24)    | <img src="https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/5adfd776-ce7e-4467-92dd-727a12239cd1" alt="India" width="32" height="32">  | I'm a Student. |
 
 
 
