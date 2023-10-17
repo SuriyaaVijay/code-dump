@@ -20,3 +20,5 @@ Place: Kanpur
 About: I am a Frontend Web Developer, wanted to leaning about web development and making good stuff to inhance my skills and I am interested in Open Source Contribution.
 
 Name: Sahil Hossain [https://github.com/Sahil1786] Place: Kolkata About: I am a FullStack Web Developer, wanted to leaning about web development and making good stuff to inhance my skills and I am interested in Open Source Contribution.
+
+Name: Ugur Ozcan [https://github.com/uozcan12] Place: Turkey About: I am a Data Engineer, and I want to leaning about data engineering, machine learning and data science and I am interested in Open Source Contribution.
