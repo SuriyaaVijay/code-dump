@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.17.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"name": "data-06e2e569a44612f5368c62a5e8d2ff70"}, "mark": "bar", "encoding": {"x": {"field": "PriceRange_Low", "type": "quantitative"}, "y": {"field": "PriceRange_High", "type": "quantitative"}}, "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json", "datasets": {"data-06e2e569a44612f5368c62a5e8d2ff70": [{"Unnamed: 0": 0, "Car": "Tata Nexon EV", "Style": "Compact SUV", "Range": 312, "Transmission": "Automatic", "VehicleType": "Electric", "PriceRange_Low": 13.99, "PriceRange_High": 17.4, "Capacity": 5, "BootSpace": "350 L", "BaseModel": "XM ", "TopModel": "Dark XZ Plus LUX "}, {"Unnamed: 0": 1, "Car": "Tata Tigor EV", "Style": "Subcompact Sedan", "Range": 306, "Transmission": "Automatic", "VehicleType": "Electric", "PriceRange_Low": 12.49, "PriceRange_High": 13.64, "Capacity": 5, "BootSpace": "316 L", "BaseModel": "XE ", "TopModel": "XZ Plus Dual Tone "}, {"Unnamed: 0": 2, "Car": "Tata Nexon EV Max", "Style": "Compact SUV", "Range": 437, "Transmission": "Automatic", "VehicleType": "Electric", "PriceRange_Low": 17.74, "PriceRange_High": 19.24, "Capacity": 5, "BootSpace": "350 L", "BaseModel": "XZ Plus 3.3 kW ", "TopModel": "XZ Plus Lux 7.2 kW "}, {"Unnamed: 0": 3, "Car": "MG ZS EV", "Style": "Compact SUV", "Range": 419, "Transmission": "Automatic", "VehicleType": "Electric", "PriceRange_Low": 21.99, "PriceRange_High": 25.88, "Capacity": 5, "BootSpace": "448 L", "BaseModel": "Excite ", "TopModel": "Exclusive "}, {"Unnamed: 0": 4, "Car": "Hyundai Kona Electric", "Style": "Compact SUV", "Range": 452, "Transmission": "Automatic", "VehicleType": "Electric", "PriceRange_Low": 23.79, "PriceRange_High": 23.98, "Capacity": 5, "BootSpace": "332 L", "BaseModel": "Premium Dual Tone ", "TopModel": "HSE "}, {"Unnamed: 0": 5, "Car": "Jaguar I-Pace", "Style": "Premium Midsize Sedan", "Range": 470, "Transmission": "Automatic", "VehicleType": "Electric", "PriceRange_Low": 1.06, "PriceRange_High": 1.12, "Capacity": 5, "BootSpace": "656 L", "BaseModel": "S ", "TopModel": "Sportback 55 "}, {"Unnamed: 0": 6, "Car": "Audi E-Tron GT", "Style": "Premium Coupe", "Range": 388, "Transmission": "Automatic", "VehicleType": "Electric", "PriceRange_Low": 1.8, "PriceRange_High": 1.8, "Capacity": 5, "BootSpace": "405 L", "BaseModel": "Quattro ", "TopModel": "Quattro "}, {"Unnamed: 0": 7, "Car": "BYD E6", "Style": "Subcompact MPV", "Range": 415, "Transmission": "Automatic", "VehicleType": "Electric", "PriceRange_Low": 29.15, "PriceRange_High": 29.15, "Capacity": 5, "BootSpace": "580 L", "BaseModel": "STD ", "TopModel": "STD"}, {"Unnamed: 0": 8, "Car": "Mercedes-Benz EQC", "Style": "Compact SUV", "Range": 471, "Transmission": "Automatic", "VehicleType": "Electric", "PriceRange_Low": 1.0, "PriceRange_High": 1.0, "Capacity": 5, "BootSpace": "500 L", "BaseModel": "400 4MATIC", "TopModel": "400 4MATIC"}, {"Unnamed: 0": 9, "Car": "BMW iX", "Style": "Premium Fullsize SUV", "Range": 425, "Transmission": "Automatic", "VehicleType": "Electric", "PriceRange_Low": 1.16, "PriceRange_High": 1.16, "Capacity": 5, "BootSpace": "500 L", "BaseModel": "xDrive 40", "TopModel": "xDrive 40"}, {"Unnamed: 0": 10, "Car": "Porsche Taycan", "Style": "Premium Sports Sedan", "Range": 395, "Transmission": "Automatic", "VehicleType": "Electric", "PriceRange_Low": 1.5, "PriceRange_High": 1.5, "Capacity": 4, "BootSpace": "491 L", "BaseModel": "STD ", "TopModel": "Turbo S"}, {"Unnamed: 0": 11, "Car": "Audi E-Tron", "Style": "Compact SUV", "Range": 400, "Transmission": "Automatic", "VehicleType": "Electric", "PriceRange_Low": 1.01, "PriceRange_High": 1.19, "Capacity": 5, "BootSpace": "660 L", "BaseModel": "Etron 50 ", "TopModel": "Etron 55 S"}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

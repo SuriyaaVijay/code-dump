@@ -1,0 +1,97 @@
+.container {
+   width: 100%;
+}
+
+nav {
+   padding: 1rem;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   align-items: center;
+   background-color: var(--prussian-blue);
+}
+
+nav .heading {
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-weight: 400;
+   font-size: 1.1rem;
+   line-height: 1.5rem;
+}
+
+.heading h3 a {
+   color: var(--ut-orange);
+}
+
+.logout {
+   position: relative;
+   padding-right: 1rem;
+}
+
+.logout button {
+   background: transparent;
+}
+
+.logout button:before {
+   content: "LogOut";
+   position: absolute;
+   right: 10px;
+   top: -16px;
+   visibility: hidden;
+   font-size: 1rem;
+   font-family: monospace;
+   color: var(--selective-yellow);
+}
+
+.logout:hover button:before {
+   visibility: visible;
+}
+
+header {
+   width: 100%;
+   padding: 2rem 1rem;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+}
+
+.details {
+   margin: auto;
+   border: 3px solid var(--ut-orange);
+   background-color: #FFF;
+   border-radius: .5rem;
+   width: 450px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   gap: 0.5rem;
+   padding: 1.5rem 2rem;
+}
+
+.detailsbox {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+}
+
+.detailsbox span:first-child {
+   font-size: 1rem;
+   font-family: var(--main-font);
+   color: var(--ut-orange);
+}
+
+.detailsbox span:last-child {
+   font-size: 1rem;
+   font-family: var(--main-font);
+   color: var(--prussian-blue);
+}
+
+
+@media screen and (max-width:500px) {
+   .details {
+      width: 95%;
+   }
+}

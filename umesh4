@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Umesh Fitness</title>
+</head>
+<link rel="stylesheet" href="project2.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Babylonica&family=Julee&family=Tilt+Neon&display=swap"
+    rel="stylesheet">
+<style>
+    body {
+        font-family: 'Anton', sans-serif;
+        font-family: 'Babylonica', 'cursive';
+        font-family: 'Julee', 'cursive';
+        font-family: 'Tilt Neon', 'cursive';
+        color: white;
+        padding: 0px;
+        margin: 0px;
+        background-image: url(https://images.pexels.com/photos/1552103/pexels-photo-1552103.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+        background-size: cover;
+        /* background-repeat: no-repeat; */
+        height:800px;
+
+    }
+
+    .left {
+        /* border: 2px solid red; */
+        display: inline-block;
+        position: absolute;
+        left: 5px;
+        top: 12px;
+
+
+    }
+
+    .left img {
+        width: 132px;
+        height: 109px;
+    }
+
+    .left div {
+        text-align: center;
+        font-size: 26px;
+    }
+
+    .mid {
+        /* border: 2px solid yellow; */
+        display: block;
+        width: 36%;
+        margin: 20px auto;
+
+    }
+
+    .right {
+        /* border: 2px solid orange; */
+        display: block;
+        position: absolute;
+        right: 34px;
+        top: 20px;
+    }
+
+    .navbar {
+        display: inline-block;
+    }
+
+    .navbar li {
+        display: inline-block;
+        font-size: 16px;
+
+    }
+
+    .navbar li a {
+
+        color: white;
+        text-decoration: none;
+        padding: 18px 18px;
+    }
+
+    .navbar li a:hover {
+
+        text-decoration: underline;
+        color: grey;
+    }
+
+    .btn {
+        font-family: 'Anton', sans-serif;
+        font-family: 'Babylonica', cursive;
+        font-family: 'Julee', cursive;
+        font-family: 'Tilt Neon', cursive;
+        margin: 0px 9px;
+        color: white;
+        background-color: black;
+        padding: 4px 14px;
+        border: 2px solid grey;
+        border-radius: 8px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+
+    .btn:hover {
+        background-color: grey;
+    }
+
+    .sale {
+        /* border: 2px solid green; */
+        padding: 40px 49px;
+        margin: 277px 31px;
+        width: 33%;
+        border-radius: 26px;
+    }
+
+    .formgroup input {
+        border-radius: 10px;
+        padding: 12px;
+        margin: 3px auto;
+        display: block;
+        border: 2px solid black;
+        width: 326px;
+        font-size: 14px;
+        text-align: center;
+        font-family: 'Anton', sans-serif;
+        font-family: 'Babylonica', cursive;
+        font-family: 'Julee', cursive;
+        font-family: 'Tilt Neon', cursive;
+
+    }
+
+    .sale {
+        font-size: 34px;
+        text-align: center;
+
+    }
+    .sale button{
+        width: 349px;
+        margin: 10px 0;
+    } 
+</style>
+
+<body>
+    <header class="header">
+        <!-- left box for logo -->
+        <div class="left">
+            <img src="https://media.istockphoto.com/id/876895654/photo/white-silhouette-strenge-man-on-the-black-background.jpg?b=1&s=170667a&w=0&k=20&c=YCnFHwZS8Vvhg4mEmFkffnpn2bJY9bvSU6ABp84yHso="
+                alt="">
+            <div> </div>
+        </div>
+        <!-- mid for nav  -->
+        <div class="mid">
+            <ul class="navbar">
+                <li> <a href="#">Home</a></li>
+                <li> <a href="#">Contact Us</a></li>
+                <li> <a href="#">Fitness Calculator</a></li>
+                <li><a href="#">Help</a></li>
+
+
+            </ul>
+        </div>
+        <!-- right for buttons -->
+        <div class="right">
+            <button class="btn">Whatsapp</button>
+            <button class="btn">Email Us</button>
+
+
+        </div>
+
+    </header>
+    <div class="sale">
+        <form action="noaction.php">
+            Fill the below to Join
+            <div class="formgroup">
+                <input type="text" name="" placeholder="Enter Your Name">
+            </div>
+            <div class="formgroup">
+                <input type="text" name="" placeholder=" Enter Your Phone Number">
+            </div>
+            <div class="formgroup">
+                <input type="text" name="" placeholder="Enter Your Age">
+            </div>
+            <div class="formgroup">
+                <input type="text" name="" placeholder="Enter your Mail">
+            </div>
+
+            <button class="btn">Submit</button>
+
+        </form>
+
+    </div>
+
+</body>
+
+</html>

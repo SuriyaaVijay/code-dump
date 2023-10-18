@@ -1,0 +1,154 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  overflow-x: hidden;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+  border: 1px solid red;
+  width: 100vw;
+  overflow-x: hidden; /* Added to hide horizontal scrollbar */
+}
+
+.search-box {
+  padding: 12px;
+}
+
+.search-box input {
+  display: flex;
+  width: 50vw;
+  padding: 13px 13px 13px 50px;
+  font-size: 18px;
+  font-weight: 500;
+  text-align: left;
+  border-radius: 25px;
+  border: 1px solid grey;
+}
+
+button {
+  font-size: 17px;
+  padding: 5px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.nav-links-usual {
+  display: flex;
+  justify-content: space-between;
+  flex-grow: 0.5;
+}
+
+.nav-links-usual a {
+  text-decoration: none;
+  color: grey;
+}
+
+.nav-links-usual a:hover {
+  color: black;
+}
+
+.hero {
+  height: 100%;
+}
+
+.hero-content {
+  position: absolute;
+  padding-left: 12rem;
+  padding-bottom: 12rem;
+  z-index: 1;
+}
+
+.hero-content h1 {
+  font-size: 60px;
+  font-weight: 800;
+  color: white;
+}
+
+.hero-content span {
+  color: white;
+  font-size: 22px;
+}
+
+.cover-page {
+  z-index: 0;
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.cover-page img {
+  height: 100vh;
+  position: relative;
+  display: inline-block;
+  width: 100vw;
+}
+
+.cover-page::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+
+#cover-search {
+  position: absolute;
+}
+
+#cover-search input {
+  display: flex;
+  width: 40vw;
+  padding: 13px 13px 13px 50px;
+  font-size: 18px;
+  font-weight: 500;
+  text-align: left;
+  border-radius: 4px;
+  border: 1px solid grey;
+}
+
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 13px;
+  margin-left: 12px;
+  gap: 12px;
+  overflow-x: hidden; /* Added to hide horizontal scrollbar */
+}
+
+.content img {
+  height: 300px;
+  width: 300px;
+  border-radius: 25px;
+}
+
+.fa-solid{
+  position: absolute;
+  top: 1.8rem;
+  left: 1rem;
+  cursor: pointer;
+
+}
+.fa-magnifying-glass{
+  position: relative;
+  top: 2.2rem;
+  left: 1.2rem;
+  cursor: pointer;
+
+}
+.fa-bell{
+  color: rgb(25, 25, 26);
+  position: relative;
+  top: 0;
+  padding-right: 2rem;
+}
