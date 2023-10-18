@@ -20,3 +20,7 @@ Place: Kanpur
 About: I am a Frontend Web Developer, wanted to leaning about web development and making good stuff to inhance my skills and I am interested in Open Source Contribution.
 
 Name: Sahil Hossain [https://github.com/Sahil1786] Place: Kolkata About: I am a FullStack Web Developer, wanted to leaning about web development and making good stuff to inhance my skills and I am interested in Open Source Contribution.
+
+Name: Abdul Arham [https://github.com/a-arham-x]
+Place: Islamabad
+About: I am Abdul Arham, a Software Engineer studying in NUST, Islamabad. I am passionate about coding and software development and I am interested in Open Source Development as well.
