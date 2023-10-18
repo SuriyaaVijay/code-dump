@@ -1,0 +1,59 @@
+#include <iostream>
+#include <vector>
+
+// Function to perform binary search and return the row and column numbers
+std::vector<int> binarySearch(const std::vector<std::vector<int>>& matrix, int target) {
+    int rows = matrix.size();
+    int cols = matrix[0].size();
+    
+    int left = 0;
+    int right = rows * cols - 1;
+    
+    while (left <= right) {
+        int mid = left + (right - left) / 2;
+        int midValue = matrix[mid / cols][mid % cols];
+        
+        if (midValue == target) {
+            return {mid / cols, mid % cols}; // Return row and column numbers
+        } else if (midValue < target) {
+            left = mid + 1;
+        } else {
+            right = mid - 1;
+        }
+    }
+    
+    return {-1, -1}; // Element not found
+}
+
+int main() {
+    int rows, cols;
+    
+    std::cout << "Enter the number of rows: ";
+    std::cin >> rows;
+    
+    std::cout << "Enter the number of columns: ";
+    std::cin >> cols;
+    
+    std::vector<std::vector<int>> matrix(rows, std::vector<int>(cols));
+    
+    std::cout << "Enter the elements of the 2D array:" << std::endl;
+    for (int i = 0; i < rows; i++) {
+        for (int j = 0; j < cols; j++) {
+            std::cin >> matrix[i][j];
+        }
+    }
+    
+    int target;
+    std::cout << "Enter the element to search for: ";
+    std::cin >> target;
+    
+    std::vector<int> result = binarySearch(matrix, target);
+    
+    if (result[0] != -1) {
+        std::cout << "Element " << target << " found at row " << result[0] << " and column " << result[1] << "." << std::endl;
+    } else {
+        std::cout << "Element " << target << " not found in the 2D array." << std::endl;
+    }
+
+    return 0;
+}
