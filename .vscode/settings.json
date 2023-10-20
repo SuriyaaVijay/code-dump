@@ -56,5 +56,6 @@
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
-  "liveServer.settings.port": 5501
+  "liveServer.settings.port": 5501,
+  "C_Cpp.errorSquiggles": "enabled"
 }
