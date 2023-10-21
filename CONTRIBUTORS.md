@@ -31,6 +31,6 @@ United Kingdom - https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/
 | [Miriam](https://github.com/Odeyiany2)       | <img src="https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/664064a9-4662-4dfd-8d52-cc195825f08f" alt="Nigeria" width="32" height="32"> | I am very passionate about Data Science and Machine Learning. I am also interested in open source. |
 |[Darshit Dudhaiya](https://github.com/darshitdudhaiya)   | <img src="https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/5adfd776-ce7e-4467-92dd-727a12239cd1" alt="India" width="32" height="32">   | I'm a Student and full-stack web developer and i enthusiast about coding. |
 |[Naveen Kumar .v](https://github.com/NK-dev-24)    | <img src="https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/5adfd776-ce7e-4467-92dd-727a12239cd1" alt="India" width="32" height="32">  | I'm a Student. |
-
+|[Chandan Arya](https://github.com/alpha2lucifer)    | <img src="https://github.com/alpha2lucifer/HacktoberFest2023/assets/96792511/5adfd776-ce7e-4467-92dd-727a12239cd1" alt="India" width="32" height="32">  | I am a passionate developer with a keen interest in blockchain technology and decentralized applications. My focus lies in creating efficient and secure solutions, and I enjoy exploring various programming languages and frameworks to build innovative applications.|
 
 
