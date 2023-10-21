@@ -20,3 +20,7 @@ Place: Kanpur
 About: I am a Frontend Web Developer, wanted to leaning about web development and making good stuff to inhance my skills and I am interested in Open Source Contribution.
 
 Name: Sahil Hossain [https://github.com/Sahil1786] Place: Kolkata About: I am a FullStack Web Developer, wanted to leaning about web development and making good stuff to inhance my skills and I am interested in Open Source Contribution.
+
+Name: Pranjal [https://github.com/PapaPureza999]
+Place: Dehradun, Uttarakhand
+About: Im a Frontend webdevelopere and just started my opensource contribution journey.
