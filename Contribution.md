@@ -10,6 +10,10 @@ Name : Piumi Rathnayake [https://github.com/Piumir3]
 place : sri lanka
 About Me : I am very passionate to web development , I'm Undergraduate Student from University of Moratuwa, Faculty of Information Technology.
 
+Name : NIRMAL M[https://github.com/NIRMAL M]
+place : INDIA
+About Me : I am very passionate to Machine learning , I'm Undergraduate Student from PSG College of technology, and I am interested in Open Source Contribution.
+
 Name: Md Sarfaraz Alam [https://github.com/mdsarfarazalam840]
 Place: Bangaluru
 About: I am a passinate Full Stack Web Dev, wanted to learn more in MEAN and MERN stack and I am interested in Open Source Contribution.
