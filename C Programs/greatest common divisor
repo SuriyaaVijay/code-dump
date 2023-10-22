@@ -1,0 +1,26 @@
+// Include the standard library for input/output
+#include <stdio.h>
+
+// Declare and define the main function
+int main() {
+    // Declare variables a, b, and gcd (greatest common divisor)
+    int a, b, gcd;
+    
+    // Ask the user to enter two numbers
+    printf("Enter two numbers: ");
+    scanf("%d %d", &a, &b);
+    
+    // Loop to find the greatest common divisor
+    for (int i = 1; i <= a && i <= b; i++) {
+        // If i is a common divisor of a and b, store it in gcd
+        if (a % i == 0 && b % i == 0) {
+            gcd = i;
+        }
+    }
+    
+    // Display the greatest common divisor
+    printf("The greatest common divisor of %d and %d is %d.", a, b, gcd);
+    
+    // End the main function and return 0
+    return 0;
+}
