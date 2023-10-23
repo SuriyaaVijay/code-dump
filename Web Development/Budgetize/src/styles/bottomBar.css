@@ -1,0 +1,92 @@
+:root {
+    --main-color: #ff767d;
+    --second-color: #acb8c1;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+ 
+.bottomBar-container{
+  z-index: 1100;
+  position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ } 
+  .navigation-bar {
+    border-radius: 22px;
+    overflow: hidden;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    bottom: 3%;
+    background-color: #5cf250;
+
+  }
+  .navigation-bar .list-items {
+    list-style: none;
+    display: flex;
+    position: relative;
+    color: white;
+    font-size: 2rem;
+    /* margin-top: 20px */
+  }
+  /* .navigation-bar .list-items .pointer {
+    position: absolute;
+    left: 0px;
+    height: 100%;
+    width: 4.5rem;
+    z-index: 0;
+    transition: all 0.2s linear;
+  } */
+  /* .navigation-bar .list-items .pointer::before,
+  .navigation-bar .list-items .pointer::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 100%;
+  }
+  .navigation-bar .list-items .pointer::before {
+    top: 0;
+    border-bottom: 5px solid white;
+    border-radius: 0 0 30px 30px;
+  }
+  .navigation-bar .list-items .pointer::after {
+    bottom: 0;
+    border-top: 4px solid white;
+    border-radius: 30px 30px 0 0;
+  }
+   */
+  .navigation-bar .list-items .item {
+    flex: 1 1 0px;
+    position: relative;
+    z-index: 2;
+    height: 60px;
+  }
+  .navigation-bar .list-items .item .link {
+    height: 4rem;
+    width: 4.5rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    /* line-height: 4.5;
+    text-align: center; */
+    color: var(--second-color);
+  }
+  
+  .navigation-bar .list-items .item .link .linkIcon {
+    color: white;
+    text-align: center;
+    font-size: 1.8rem;
+    /* margin-bottom: 35px; */
+    transition: font-size 0.4s linear;
+  }
+  .navigation-bar .list-items .item.active .link .linkIcon {
+    font-size: 2.1rem;
+    color:blue
+  }
+  
+/* /* Global Styles Copy */
