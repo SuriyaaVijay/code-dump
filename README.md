@@ -150,4 +150,6 @@ Navigate to your forked repository, and press the “New pull request” button 
 </a>
   
   </div>
+Name: Sashank Bhardwaj(https://github.com/Madara909)
+Place:  Google (Noto Color Emoji - Unicode 15.0)
 # Hurray! You just got closer to completing your Hacktoberfest challenge.
