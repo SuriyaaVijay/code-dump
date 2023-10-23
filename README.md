@@ -148,8 +148,8 @@ Navigate to your forked repository, and press the “New pull request” button 
 <a href="https://github.com/SuriyaaVijay/HacktoberFest2023/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SuriyaaVijay/Hacktoberfest2023" />
 </a>
+<a href="https://github.com/Madara909">
+  <img src="https://contrib.rocks/image?Madara909" />
+</a>
   
   </div>
-Name: Sashank Bhardwaj(https://github.com/Madara909)
-Place:  Google (Noto Color Emoji - Unicode 15.0)
-# Hurray! You just got closer to completing your Hacktoberfest challenge.
