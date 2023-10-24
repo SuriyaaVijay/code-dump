@@ -1,0 +1,21 @@
+.settings{
+    margin-top: 150px;
+    padding: 30px;
+}
+.settings h2{
+    color:#000000;
+}
+.settings-list{
+    margin:20px 0
+}
+.settings-list a{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.settings-list a h5{
+    color:rgb(30, 30, 30);
+    margin: 15px 20px;
+    font-size: 1.1rem;
+}

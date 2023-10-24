@@ -1,0 +1,196 @@
+
+body{
+    margin:0;
+    background-color:#ecebeb;
+    /* background-color:#ebebeb; */
+    font-family: 'Cabin', sans-serif !important;
+    position: relative;
+    scroll-behavior: smooth;
+    /* font-family:Verdana, Geneva, Tahoma, sans-serif; */
+  }
+  *{
+  scroll-behavior: smooth;
+
+}
+#d-board-headWrapper{
+  z-index: 1100;
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+#d-board-headWrapper h1{
+    position: absolute;
+    /* top:%; */
+    background-color:#ecebeb;
+    padding: 10px 25px;
+    border-radius: 18px;
+    top:4%;
+    z-index: 1101;
+}
+.d-board-head{
+    margin-top: 30px;
+    /* height: 40vh; */
+    width: 90%;
+    background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url("/images/trees-abstract.jpg");
+    background-size: cover;
+    /* background: url("https://images.unsplash.com/photo-1684242598938-554af99784c9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=363&q=80"); */
+    /* background: linear-gradient(330deg, rgba(174,251,168,1) 66%, rgba(17,237,12,1) 98%); */
+    /* border-top-left-radius: 36px;
+    border-top-right-radius: 36px; */
+    border-radius: 36px 36px 10px 10px;
+    padding:30px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.d-board-gauge{
+    display: flex;
+}
+.d-board-footer{
+    margin : -20px;
+    text-align: center;
+}
+.d-board-footer h4{
+    font-size: 1.3rem;
+    color:white;
+}
+.d-board.welcome{
+ 
+    color: #f4f4f4;
+
+}
+
+.d-board.welcome{
+
+}
+
+.d-board.expenseBar{
+  display: flex;
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  /* background: conic-gradient(red var(--progress), gray 0deg); */
+  font-size: 0;
+}
+.d-board.expenseBar::after{
+  content: attr(data-progress) '%';
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  margin: 10px;
+  border-radius: 50%;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url(/images/trees-abstract.jpg);
+  color: white;
+  font-size: 1rem;
+  text-align: center;
+}
+
+
+.bottomButton{
+    display: flex;
+    justify-content: center;
+    /* background-color: white; */
+    border-radius: 10px;
+    font-size: 0.7rem;
+    padding: 5px 10px;
+    margin-bottom: 100px;
+}
+
+
+/* CreateScreen Styles */
+/* .createScreen.table tr{
+  margin:20px
+} */
+
+.createScreen .table {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.createScreen .table tr th input,.createScreen .table tr td input{
+  font-size: 1rem;
+    padding: 12px 10px;
+    border-radius: 12px;
+    border: solid black 2px;
+    margin:10px 7px;
+    font-weight: 500;
+    background-color: rgba(208, 218, 218, 0.33);
+}
+.createScreen .table tr th input::placeholder,.createScreen .table tr td input::placeholder{
+  color: #000000;
+  font-size: 1.1rem;
+  /* font-weight: 500; */
+
+}
+.createScreen .table tr td input{
+  width: 70px
+}
+
+
+
+
+
+/* Login Styles */
+.login input{
+  margin:7px 0;
+  padding:15px; 
+  width:250px;
+  border-radius: 10px;
+  border:none;
+  /* font-size: 1rem; */
+  font-weight: 700;
+}
+.login input::placeholder{
+  color:#000000;
+  font-weight: 600;
+}
+.login input:focus{
+  outline:solid #000000 2px;
+  background-color: rgba(215, 215, 215, 0.5);
+  color:#ffffff;
+}
+
+.login input:focus::placeholder{
+  color:#ffffff;
+} 
+
+.login button:active{
+  background-color: rgba(19, 255, 141, 0.5)!important;
+  border: solid white 2px;
+
+}
+
+
+/* Challenge Screen Styles */
+/* 
+.guidelines{
+  text-align: center;
+}
+.guidelines > ul{
+  display: inline-block;
+} */
+.guidelines ul li::marker{
+  color:#858585
+}
+.guidelines ul li{
+  margin:8px 0px;
+}
+
+/* Challenge Card in Dashboard Styles */
+
+.dashboard .profile-img.container{
+    width: 55px;
+    height:55px
+}
+.d-board-chlng{
+  width:25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

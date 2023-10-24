@@ -1,0 +1,50 @@
+
+#cardSection{
+    max-width:100%;
+    /* margin: 70px 0; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    overflow: hidden;
+}
+#cardSection .deleteBtn{
+    padding:22px 17px;
+    border:none;
+    border-radius: 10px 0 0 10px!important;
+    /* border-top-left-radius: 10px!important; */
+    /* border-bottom-left-radius: 10px!important; */
+    color:aliceblue;
+    background-color: rgb(255, 81, 81);
+    z-index: -1;
+    position: absolute;
+    left: 6%;
+    height:auto;
+    width:auto;
+    box-shadow: none;
+}
+#cardWrapper{
+    margin: 10px 0;
+    background-color: white;
+    width: 90%;
+    height: 80px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    transition: margin-left 0.001s linear;
+    box-shadow: 10px 5px 10px -10px rgba(0,0,0,0.1)
+    /* box-shadow: -5px 3px 5px -6px rgba(0,0,0,0.1), 0px 1px 5px 0px rgba(0,0,0,0.14), 0px 1px 5px 0px rgba(0,0,0,0.12); */
+}
+
+/* .div-class {
+    display: inline-block;
+} */
+/* #cardSection:before {
+    content: '';
+    width: 10%;
+    min-width: 100px;
+    max-width: 200px;
+    display: inline-block;
+} */
+
