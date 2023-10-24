@@ -1,0 +1,21 @@
+body {
+    background-color: #131316;
+    color: #ffffff;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+section {
+    display: grid;
+    place-items: center;
+    align-content: center;
+}
+.hidden {
+    opacity: 0;
+    transition: all 1s;
+}
+.show {
+    opacity: 1;
+    transform: translateX(0);
+}
