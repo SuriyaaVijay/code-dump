@@ -8,7 +8,6 @@ def binary_search(arr, low, high, x):
 else:
 			return binary_search(arr, mid + 1, high, x)
 	else:
-		# Element is not present in the array
 		return -1
 arr = [ 2, 3, 4, 10, 40 ]
 x = 10
