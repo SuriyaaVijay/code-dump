@@ -1,0 +1,49 @@
+body{
+    background-color: white;
+    font-family: 'Sora', sans-serif;
+}
+.card{
+    display: flex;
+    margin: auto;
+    width: 368px;
+    flex-direction: column;
+    box-shadow: 0px 30px 100px 0px rgba(9, 10, 16, 0.205);
+    border-radius: 15px;
+}
+.imagee{
+    margin: 16px;
+}
+img{
+    height: 152px;
+    width: 332px;
+    border-radius: 15px;
+}
+.tag{
+    border-style: solid;
+    width: 65px;
+    height: 20px;
+    border-color: #883ae100;
+    background-color: #E6D6FC;
+    border-radius: 25px;
+    margin: 16px;
+}
+.tag-p{
+    font-weight: 500;
+    color:#883AE1;
+    font-size: 11px;
+    margin:2px 2px 0px 12px ;  
+}
+h3{
+    margin: 16px;
+}
+p{
+    font-weight: 200;
+    margin: 16px;
+    font-size: 14px;
+    line-height: 1.4;
+}
+.footer{
+    border-top: solid;
+    border-color: rgba(0, 0, 0, 0.155);
+    border-width: 1px;
+}
