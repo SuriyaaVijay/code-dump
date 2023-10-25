@@ -20,3 +20,7 @@ Place: Kanpur
 About: I am a Frontend Web Developer, wanted to leaning about web development and making good stuff to inhance my skills and I am interested in Open Source Contribution.
 
 Name: Sahil Hossain [https://github.com/Sahil1786] Place: Kolkata About: I am a FullStack Web Developer, wanted to leaning about web development and making good stuff to inhance my skills and I am interested in Open Source Contribution.
+
+Name: Barun Aaryan [https://github.com/BarunAaryan]
+Place: Berhampur, Odisha
+About: I am a college studrnt, who recently completed learning DSA and now starting with web dev. I wanted to take part in hacktoberfest and be a part of open source contributions.
