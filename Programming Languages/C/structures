@@ -1,0 +1,26 @@
+#include<stdio.h>
+
+typedef struct mystructure
+{
+  int sl_no;
+  char name[100];
+}mystruct;
+
+int main()
+{
+mystruct people[10];
+for(int i=0;i<10;i++)
+{
+  people[i].sl_no=i+1;
+  printf("Enter name of person %d: ",i+1);
+  scanf("%s",people[i].name);
+}
+
+for(int i=0;i<10;i++)
+{
+  printf("Sl no: %d\n",people[i].sl_no);
+  printf("Name: %s\n",people[i].name);
+}
+
+return 0;
+}
