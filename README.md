@@ -144,10 +144,15 @@ Navigate to your forked repository, and press the “New pull request” button 
 ## Contributors of `Hacktoberfest 2023`
 
 <div align="center">
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <a href="https://github.com/SuriyaaVijay/HacktoberFest2023/graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=SuriyaaVijay/Hacktoberfest2023" />
+    </a>
+    <a href="https://github.com/SrSurajithPranav">
+      <img src="https://avatars.githubusercontent.com/u/91361858?v=4" width="55" height="55" alt="GitHub Icon">
+    </a>
+  </div>
+</div>
 
-<a href="https://github.com/SuriyaaVijay/HacktoberFest2023/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SuriyaaVijay/Hacktoberfest2023" />
-</a>
-  
   </div>
 # Hurray! You just got closer to completing your Hacktoberfest challenge.
