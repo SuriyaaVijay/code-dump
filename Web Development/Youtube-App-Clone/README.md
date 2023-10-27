@@ -15,6 +15,8 @@ Clone the project
 
 ```bash
   git clone https://github.com/tusharkhatri434/my-youtube.git
+  
+  Add your Google API key : IN constant.js file.
 ```
 
 Go to the project directory
