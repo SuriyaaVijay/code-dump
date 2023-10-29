@@ -1,0 +1,55 @@
+
+body {
+    min-height: 220vh;
+    display: grid;
+    place-items: center;
+    padding: 0;
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    background-image: url(tall-trees-forest-mountains-covered-with-fog.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  .container {
+    border: 2px solid black;
+    padding: 20px;
+    padding-left: 70px;
+    padding-right: 70px;
+    background-color: rgba(43, 146, 155, 0.3);
+  }
+  h1,
+  h2 {
+    font-size: 45px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .heading {
+    color: black;
+    text-shadow: 2px 2px 5px rgb(30, 34, 37);
+  }
+  h2 {
+    color: #171b2e;
+    font-size: 25px;
+  }
+  #rps-div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  img {
+    height: 150px;
+    width: auto;
+    border: none;
+    margin: 20px;
+    margin-top: 30px;
+    
+  }
+  img:hover{
+    box-shadow: 3px 3px 10px 10px rgb(84, 97, 108) ;
+  }
+  #arrow{
+    position: relative;
+    left: 100px;
+
+  }
