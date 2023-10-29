@@ -4,7 +4,7 @@ class Person:
         self.age = age
 
     def introduce(self):
-        print(f"Hello, my name is {self.name} and I am {self.age} years old.")
+        return f"Hello, my name is {self.name} and I am {self.age} years old."
 
 class Student(Person):
     def __init__(self, name, age, student_id):
